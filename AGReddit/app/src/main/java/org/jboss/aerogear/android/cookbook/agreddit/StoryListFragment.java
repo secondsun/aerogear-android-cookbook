@@ -17,8 +17,10 @@
 package org.jboss.aerogear.android.cookbook.agreddit;
 
 import android.app.Activity;
+import android.app.Fragment;
 import android.app.ListFragment;
 import android.os.Bundle;
+import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -34,18 +36,17 @@ import org.jboss.aerogear.android.pipeline.LoaderPipe;
 
 import java.util.List;
 
-public class StoryListFragment extends ListFragment {
+public class StoryListFragment extends Fragment {
 
 	private static final String STATE_ACTIVATED_POSITION = "activated_position";
 
 	private Callbacks mCallbacks = sDummyCallbacks;
 	private int mActivatedPosition = ListView.INVALID_POSITION;
+    private RecyclerView listView;
 	WrappingPagedList<Listing> listings;
 	
 	private final Callback<List<Listing>> readCallback;
-	
-	
-	
+
 	public interface Callbacks {
 
 		public void onItemSelected(String id);
