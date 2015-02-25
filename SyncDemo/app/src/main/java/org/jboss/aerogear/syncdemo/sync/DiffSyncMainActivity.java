@@ -53,7 +53,9 @@ public class DiffSyncMainActivity extends SyncActivity {
         
         setContentView(R.layout.editor);
         
-        documentId = startIntent.getStringExtra(DOCUMENT_ID);
+//        documentId = startIntent.getStringExtra(DOCUMENT_ID);
+          documentId = "12345";
+
         name = (TextView) findViewById(R.id.name);
         profession = (TextView) findViewById(R.id.profession);
         hobby0 = (TextView) findViewById(R.id.hobby0);
