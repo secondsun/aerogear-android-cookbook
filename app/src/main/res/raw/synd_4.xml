@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>How To Do Everything</title>
+    <link>http://howtodoeverything.org</link>
+    <description><![CDATA[We're half advice show, half survival guide. We answer all your questions, from how to find a date, to how to find water in the desert.]]></description>
+    <copyright>NPR 2012</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en-us</language>
+    <itunes:summary><![CDATA[We're half advice show, half survival guide. We answer all your questions, from how to find a date, to how to find water in the desert.]]></itunes:summary>
+    <itunes:subtitle><![CDATA[We're half advice show, half survival guide. We answer all your questions, from how to find a date, to how to find water in the desert.]]></itunes:subtitle>
+    <itunes:author>Ian Chillag and Mike Danforth</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Social Sciences"/>
+    <itunes:category text="Science &amp; Medicine"/>
+    <itunes:image href="http://media.npr.org/images/podcasts/primary/icon_510303-65b5ac5ddb4ed1602db0bfd21c34a4a57d8ee8b2.jpg?s=1400"/>
+    <image>
+      <url>http://media.npr.org/images/podcasts/primary/icon_510303-65b5ac5ddb4ed1602db0bfd21c34a4a57d8ee8b2.jpg?s=200</url>
+      <title>How To Do Everything</title>
+      <link>http://howtodoeverything.org</link>
+    </image>
+    <lastBuildDate>Tue, 07 Apr 2015 18:53:38 -0400</lastBuildDate>
+    <item>
+      <title>Stunt Baby and The Dog Olympics</title>
+      <description><![CDATA[How to make your pregnancy more exciting and the Olympics more competitive. ]]></description>
+      <pubDate>Tue, 07 Apr 2015 18:53:38 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>635e221c-ceb4-4923-bfba-df4e8ff068f8</guid>
+      <link>http://htde.npr.libsynfusion.com/stunt-baby-and-the-dog-olympics</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to make your pregnancy more exciting and the Olympics more competitive. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to make your pregnancy more exciting and the Olympics more competitive. ]]></itunes:subtitle>
+      <itunes:duration>1401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/398151024/npr_398151024.mp3?orgId=1&amp;e=398151024&amp;d=1401&amp;ft=pod&amp;f=510303" length="30797619" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Wake Up and Eat Birthday Cake</title>
+      <description><![CDATA[How to wake up, celebrate your birthday properly, and shoot a free throw. This is not an April Fool's Day episode. Were we supposed to do an April Fool's Day episode? ]]></description>
+      <pubDate>Wed, 01 Apr 2015 20:04:56 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>1a203bb2-c059-431b-a35d-8e2d6484eeb4</guid>
+      <link>http://htde.npr.libsynfusion.com/wake-up-and-eat-birthday-cake</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to wake up, celebrate your birthday properly, and shoot a free throw. This is not an April Fool's Day episode. Were we supposed to do an April Fool's Day episode? ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to wake up, celebrate your birthday properly, and shoot a free throw. This is not an April Fool's Day episode. Were we supposed to do an April Fool's Day episode? ]]></itunes:subtitle>
+      <itunes:duration>987</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/396909062/npr_396909062.mp3?orgId=1&amp;e=396909062&amp;d=987&amp;ft=pod&amp;f=510303" length="24178817" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cheetah Allen and The Kiss of Death</title>
+      <description><![CDATA[How to become Cheetah Boy, and a warning about lipstick.]]></description>
+      <pubDate>Wed, 25 Mar 2015 12:32:08 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>978f094f-2c9c-4c52-8a7a-ee6d79ed7b1f</guid>
+      <link>http://htde.npr.libsynfusion.com/cheetah-allen-and-the-kiss-of-death</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to become Cheetah Boy, and a warning about lipstick.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to become Cheetah Boy, and a warning about lipstick.]]></itunes:subtitle>
+      <itunes:duration>1187</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/395319579/npr_395319579.mp3?orgId=1&amp;e=395319579&amp;d=1187&amp;ft=pod&amp;f=510303" length="27377877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Milk &amp; Asparagus</title>
+      <description><![CDATA[How to get the milk you want and deserve, and the truth about asparagus. ]]></description>
+      <pubDate>Tue, 17 Mar 2015 17:44:53 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>e32b3d61-d886-491a-a1da-c8d1afa629a6</guid>
+      <link>http://htde.npr.libsynfusion.com/milk-asparagus</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get the milk you want and deserve, and the truth about asparagus. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get the milk you want and deserve, and the truth about asparagus. ]]></itunes:subtitle>
+      <itunes:duration>1334</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/393665422/npr_393665422.mp3?orgId=1&amp;e=393665422&amp;d=1334&amp;ft=pod&amp;f=510303" length="29730569" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cows &amp; Noses</title>
+      <description><![CDATA[A cow is rescued, and a nose is picked. ]]></description>
+      <pubDate>Tue, 10 Mar 2015 17:18:44 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>bd1312f6-9576-49f0-b7bb-f52e778367d7</guid>
+      <link>http://htde.npr.libsynfusion.com/cows-noses</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A cow is rescued, and a nose is picked. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A cow is rescued, and a nose is picked. ]]></itunes:subtitle>
+      <itunes:duration>918</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/392182917/npr_392182917.mp3?orgId=1&amp;e=392182917&amp;d=918&amp;ft=pod&amp;f=510303" length="23067881" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Babies vs. Winter</title>
+      <description><![CDATA[How to beat the winter, find love, and make the Olympic team. ]]></description>
+      <pubDate>Tue, 03 Mar 2015 19:16:47 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>33243ef2-f9e7-4b27-842f-36cd8fb01c97</guid>
+      <link>http://htde.npr.libsynfusion.com/babies-vs-winter</link>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to beat the winter, find love, and make the Olympic team. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to beat the winter, find love, and make the Olympic team. ]]></itunes:subtitle>
+      <itunes:duration>1562</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/390530451/npr_390530451.mp3?orgId=1&amp;e=390530451&amp;d=1562&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Theater Butts</title>
+      <description><![CDATA[This week we help you find your seat without bothering the people around you.]]></description>
+      <pubDate>Tue, 17 Feb 2015 16:00:28 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/387025843/npr_387025843.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we help you find your seat without bothering the people around you.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we help you find your seat without bothering the people around you.]]></itunes:subtitle>
+      <itunes:duration>500</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/387025843/npr_387025843.mp3?orgId=1&amp;e=387025843&amp;d=500&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rally &amp; Bluff</title>
+      <description><![CDATA[How to drive a rally car, bluff convincingly, and look pretty when you get your picture taken. ]]></description>
+      <pubDate>Tue, 10 Feb 2015 17:39:38 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/385298987/npr_385298987.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to drive a rally car, bluff convincingly, and look pretty when you get your picture taken. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to drive a rally car, bluff convincingly, and look pretty when you get your picture taken. ]]></itunes:subtitle>
+      <itunes:duration>1371</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/385298987/npr_385298987.mp3?orgId=1&amp;e=385298987&amp;d=1371&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Biweekly Shark Butts</title>
+      <description><![CDATA[This week, how to never miss a meeting, decide if your shark needs pants, and more.&#160;]]></description>
+      <pubDate>Wed, 04 Feb 2015 10:42:58 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/383785387/npr_383785387.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, how to never miss a meeting, decide if your shark needs pants, and more.&#160;]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week, how to never miss a meeting, decide if your shark needs pants, and more.&#160;]]></itunes:subtitle>
+      <itunes:duration>1246</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/383785387/npr_383785387.mp3?orgId=1&amp;e=383785387&amp;d=1246&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cereal and The Super Big Sports Game</title>
+      <description><![CDATA[How to keep your cereal from getting soggy, and we make a very interesting dip for the big sporting event with the misshapen ball that will be played on Sunday&#160;and shall not be named.&#160;&#160;]]></description>
+      <pubDate>Tue, 27 Jan 2015 16:30:14 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/381951948/npr_381951948.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to keep your cereal from getting soggy, and we make a very interesting dip for the big sporting event with the misshapen ball that will be played on Sunday&#160;and shall not be named.&#160;&#160;]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to keep your cereal from getting soggy, and we make a very interesting dip for the big sporting event with the misshapen ball that will be played on Sunday&#160;and shall not be named.&#160;&#160;]]></itunes:subtitle>
+      <itunes:duration>832</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510303/381951948/npr_381951948.mp3?orgId=1&amp;e=381951948&amp;d=832&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Laps &amp; Laptops</title>
+      <description><![CDATA[<p>How to stop that email you shouldn't have sent, and how to swim a lap. Plus: a friend in need is a friend indeed.&#160;</p>]]></description>
+      <pubDate>Tue, 20 Jan 2015 21:23:23 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/378704570/npr_378704570.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to stop that email you shouldn't have sent, and how to swim a lap. Plus: a friend in need is a friend indeed.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to stop that email you shouldn't have sent, and how to swim a lap. Plus: a friend in need is a friend indeed.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/378704570/npr_378704570.mp3?orgId=1&amp;e=378704570&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Linsanity!</title>
+      <description><![CDATA[<p>This week we solve an age-old spinach mystery and help out the FBI. Plus football predictions from Gillian!</p>]]></description>
+      <pubDate>Tue, 13 Jan 2015 23:43:22 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/377094669/npr_377094669.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we solve an age-old spinach mystery and help out the FBI. Plus football predictions from Gillian!</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we solve an age-old spinach mystery and help out the FBI. Plus football predictions from Gillian!</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/377094669/npr_377094669.mp3?orgId=1&amp;e=377094669&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clues and Legos</title>
+      <description><![CDATA[<p>How to crack a case, and how to build a really, really, really big Lego model.&#160;</p>]]></description>
+      <pubDate>Tue, 06 Jan 2015 17:43:19 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/375449656/npr_375449656.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to crack a case, and how to build a really, really, really big Lego model.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to crack a case, and how to build a really, really, really big Lego model.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/375449656/npr_375449656.mp3?orgId=1&amp;e=375449656&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>This Episode Is Only For Cows</title>
+      <description><![CDATA[<p>This episode is only for cows. Humans are advised to skip this and listen to one of our many human-focused episodes instead.&#160;</p>]]></description>
+      <pubDate>Tue, 23 Dec 2014 16:03:16 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372735647/npr_372735647.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This episode is only for cows. Humans are advised to skip this and listen to one of our many human-focused episodes instead.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This episode is only for cows. Humans are advised to skip this and listen to one of our many human-focused episodes instead.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372735647/npr_372735647.mp3?orgId=1&amp;e=372735647&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Less Cowbell</title>
+      <description><![CDATA[<p>Cows, it turns out, hate the sound of cowbells. We try and help out our bovine friends.&#160;</p>]]></description>
+      <pubDate>Mon, 22 Dec 2014 17:55:38 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372539693/npr_372539693.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>Cows, it turns out, hate the sound of cowbells. We try and help out our bovine friends.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>Cows, it turns out, hate the sound of cowbells. We try and help out our bovine friends.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372539693/npr_372539693.mp3?orgId=1&amp;e=372539693&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Santa Claus, Ninjas and Fruitcake Toss Day</title>
+      <description><![CDATA[This week a Ninja Master gives Santa some tips on sneaking around and how to make 2015 the best year ever.]]></description>
+      <pubDate>Sat, 20 Dec 2014 03:14:13 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372049769/npr_372049769.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week a Ninja Master gives Santa some tips on sneaking around and how to make 2015 the best year ever.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week a Ninja Master gives Santa some tips on sneaking around and how to make 2015 the best year ever.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/372049769/npr_372049769.mp3?orgId=1&amp;e=372049769&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hair and Apostrophes</title>
+      <description><![CDATA[<p>A listener is getting laser hair removal, and it hurts. A lot. Mike and Ian help her deal with the pain, with some help from the toughest people&#160;they could find.&#160;</p>]]></description>
+      <pubDate>Fri, 12 Dec 2014 20:23:22 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/370446404/npr_370446404.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>A listener is getting laser hair removal, and it hurts. A lot. Mike and Ian help her deal with the pain, with some help from the toughest people&#160;they could find.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>A listener is getting laser hair removal, and it hurts. A lot. Mike and Ian help her deal with the pain, with some help from the toughest people&#160;they could find.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/370446404/npr_370446404.mp3?orgId=1&amp;e=370446404&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Punch</title>
+      <description><![CDATA[This week we tell you how to punch someone in the face without hurting anyone and get solar power the Jackie Chan way.]]></description>
+      <pubDate>Fri, 05 Dec 2014 17:23:18 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/368780473/npr_368780473.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we tell you how to punch someone in the face without hurting anyone and get solar power the Jackie Chan way.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we tell you how to punch someone in the face without hurting anyone and get solar power the Jackie Chan way.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/368780473/npr_368780473.mp3?orgId=1&amp;e=368780473&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Thanksgiving Leftovers</title>
+      <description><![CDATA[<p>We're out of the office this week, but we've put together a few Thanksgiving-ish howtos from&#160;past shows.&#160;</p>]]></description>
+      <pubDate>Thu, 27 Nov 2014 11:33:14 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/367017995/npr_367017995.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>We're out of the office this week, but we've put together a few Thanksgiving-ish howtos from&#160;past shows.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>We're out of the office this week, but we've put together a few Thanksgiving-ish howtos from&#160;past shows.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/367017995/npr_367017995.mp3?orgId=1&amp;e=367017995&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Choose Your Own Adventure</title>
+      <description><![CDATA[<p><span style="color: #22242f; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 20.1599998474121px;">How to survive family time this Thanksgiving. Plus, the moving walkway is coming to an end. &#160;</span></p>]]></description>
+      <pubDate>Mon, 24 Nov 2014 13:33:15 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/366345280/npr_366345280.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p><span style="color: #22242f; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 20.1599998474121px;">How to survive family time this Thanksgiving. Plus, the moving walkway is coming to an end. &#160;</span></p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p><span style="color: #22242f; font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 20.1599998474121px;">How to survive family time this Thanksgiving. Plus, the moving walkway is coming to an end. &#160;</span></p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/366345280/npr_366345280.mp3?orgId=1&amp;e=366345280&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sweat &amp; Comic Sans</title>
+      <description><![CDATA[<p>How to find all those typoos you made, and how they test out those wicking t-shirts.&#160;</p>]]></description>
+      <pubDate>Fri, 14 Nov 2014 16:53:19 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/364149900/npr_364149900.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to find all those typoos you made, and how they test out those wicking t-shirts.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to find all those typoos you made, and how they test out those wicking t-shirts.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/364149900/npr_364149900.mp3?orgId=1&amp;e=364149900&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Physical Chess</title>
+      <description><![CDATA[<p>We do our best to help out Josiah, who needs to beat a much stronger guy in arm wrestling. Also: nocturnal sneezing.&#160;</p>]]></description>
+      <pubDate>Fri, 07 Nov 2014 17:08:55 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/362361294/npr_362361294.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>We do our best to help out Josiah, who needs to beat a much stronger guy in arm wrestling. Also: nocturnal sneezing.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>We do our best to help out Josiah, who needs to beat a much stronger guy in arm wrestling. Also: nocturnal sneezing.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/362361294/npr_362361294.mp3?orgId=1&amp;e=362361294&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How To Boo Everything</title>
+      <description><![CDATA[<p>A special Halloween episode with lots of zombies and scary things.</p>]]></description>
+      <pubDate>Thu, 30 Oct 2014 10:33:14 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/360110051/npr_360110051.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>A special Halloween episode with lots of zombies and scary things.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>A special Halloween episode with lots of zombies and scary things.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/360110051/npr_360110051.mp3?orgId=1&amp;e=360110051&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>A Man and His Bike</title>
+      <description><![CDATA[<p>How to get service at a restaurant and a man learns to ride a bike&#160;without training wheels.&#160;</p>]]></description>
+      <pubDate>Fri, 24 Oct 2014 18:33:17 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/358651758/npr_358651758.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to get service at a restaurant and a man learns to ride a bike&#160;without training wheels.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to get service at a restaurant and a man learns to ride a bike&#160;without training wheels.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/358651758/npr_358651758.mp3?orgId=1&amp;e=358651758&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Diplomat &amp; The Goatherd</title>
+      <description><![CDATA[<p>How to correct someone gracefully, and how to mow your lawn without a lawnmower.&#160;</p>]]></description>
+      <pubDate>Fri, 17 Oct 2014 18:43:18 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/357030954/npr_357030954.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to correct someone gracefully, and how to mow your lawn without a lawnmower.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to correct someone gracefully, and how to mow your lawn without a lawnmower.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/357030954/npr_357030954.mp3?orgId=1&amp;e=357030954&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sialoquents and Pricklouses</title>
+      <description><![CDATA[<p>How to get the most out of your root beer, insult people from ancient times and make peace with that sneezy guy on the train.</p>]]></description>
+      <pubDate>Sat, 11 Oct 2014 03:13:44 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/355303488/npr_355303488.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to get the most out of your root beer, insult people from ancient times and make peace with that sneezy guy on the train.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to get the most out of your root beer, insult people from ancient times and make peace with that sneezy guy on the train.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/355303488/npr_355303488.mp3?orgId=1&amp;e=355303488&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bustle In Your Hedgerow</title>
+      <description><![CDATA[<p>How to predict the winter, describe the taste of bubblegum, and park your blimp safely.&#160;</p>]]></description>
+      <pubDate>Fri, 03 Oct 2014 19:53:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/353588916/npr_353588916.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to predict the winter, describe the taste of bubblegum, and park your blimp safely.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to predict the winter, describe the taste of bubblegum, and park your blimp safely.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/353588916/npr_353588916.mp3?orgId=1&amp;e=353588916&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Doodles, Names, and Best Boys</title>
+      <description><![CDATA[<p>How to make sense of the credits at the end of a movie, doodle old school, and how companies choose the names for people in their ads.&#160;</p>]]></description>
+      <pubDate>Fri, 26 Sep 2014 21:14:07 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/351875819/npr_351875819.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to make sense of the credits at the end of a movie, doodle old school, and how companies choose the names for people in their ads.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to make sense of the credits at the end of a movie, doodle old school, and how companies choose the names for people in their ads.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/351875819/npr_351875819.mp3?orgId=1&amp;e=351875819&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gin and Garbage</title>
+      <description><![CDATA[<p>How to freshen up with gin and we solve a stinky mystery.</p>]]></description>
+      <pubDate>Thu, 18 Sep 2014 20:35:39 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/349678924/npr_349678924.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to freshen up with gin and we solve a stinky mystery.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to freshen up with gin and we solve a stinky mystery.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/349678924/npr_349678924.mp3?orgId=1&amp;e=349678924&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dinosaur Shirts, ATM Fees and The Flavor of Names</title>
+      <description><![CDATA[<p>How to dress your Dreadnaughtus;&#160;avoid ATM fees and taste somebody's name.&#160;</p>]]></description>
+      <pubDate>Fri, 12 Sep 2014 18:13:25 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/348039404/npr_348039404.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to dress your Dreadnaughtus;&#160;avoid ATM fees and taste somebody's name.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to dress your Dreadnaughtus;&#160;avoid ATM fees and taste somebody's name.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/348039404/npr_348039404.mp3?orgId=1&amp;e=348039404&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Very Large Cat</title>
+      <description><![CDATA[<p>Mike and Ian help you with a common pet problem. Also, they've missed you, by the way.&#160;</p>]]></description>
+      <pubDate>Fri, 05 Sep 2014 14:43:16 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/346121137/npr_346121137.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>Mike and Ian help you with a common pet problem. Also, they've missed you, by the way.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>Mike and Ian help you with a common pet problem. Also, they've missed you, by the way.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/346121137/npr_346121137.mp3?orgId=1&amp;e=346121137&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Summer Vacation Postcard #2</title>
+      <description><![CDATA[<p>Ian takes a visit to the National Ice Core Lab in Colorado, where they store all those thousand-year-old ice cores they pull out of Antarctica.&#160;</p>]]></description>
+      <pubDate>Fri, 15 Aug 2014 19:13:27 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/340728450/npr_340728450.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>Ian takes a visit to the National Ice Core Lab in Colorado, where they store all those thousand-year-old ice cores they pull out of Antarctica.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>Ian takes a visit to the National Ice Core Lab in Colorado, where they store all those thousand-year-old ice cores they pull out of Antarctica.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/340728450/npr_340728450.mp3?orgId=1&amp;e=340728450&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Summer Vacation Postcard #1</title>
+      <description><![CDATA[<p>How not to get lost in the wild. A quick tip from our summer break.</p>]]></description>
+      <pubDate>Fri, 08 Aug 2014 17:48:40 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/338947577/npr_338947577.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How not to get lost in the wild. A quick tip from our summer break.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How not to get lost in the wild. A quick tip from our summer break.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/338947577/npr_338947577.mp3?orgId=1&amp;e=338947577&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Noid</title>
+      <description><![CDATA[We're on the road this week, so just a short show for you. But we will tell you the strange, tragic story of The Noid, the old Domino's Pizza mascot from the 80s. ]]></description>
+      <pubDate>Sat, 02 Aug 2014 01:43:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/337269677/npr_337269677.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We're on the road this week, so just a short show for you. But we will tell you the strange, tragic story of The Noid, the old Domino's Pizza mascot from the 80s. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We're on the road this week, so just a short show for you. But we will tell you the strange, tragic story of The Noid, the old Domino's Pizza mascot from the 80s. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/337269677/npr_337269677.mp3?orgId=1&amp;e=337269677&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Shipwrecked Legos and Eating Crickets</title>
+      <description><![CDATA[This week we tell you how to turn beach trip into a treasure hunt and how to snack on crickets.]]></description>
+      <pubDate>Fri, 25 Jul 2014 18:19:11 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/335391520/npr_335391520.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we tell you how to turn beach trip into a treasure hunt and how to snack on crickets.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we tell you how to turn beach trip into a treasure hunt and how to snack on crickets.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/335391520/npr_335391520.mp3?orgId=1&amp;e=335391520&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Babies and Emergencies</title>
+      <description><![CDATA[How to travel with your baby, and what to do when you've really, really got to go. ]]></description>
+      <pubDate>Fri, 18 Jul 2014 16:03:26 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/332641941/npr_332641941.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to travel with your baby, and what to do when you've really, really got to go. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to travel with your baby, and what to do when you've really, really got to go. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/332641941/npr_332641941.mp3?orgId=1&amp;e=332641941&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Scoreboards, Scanners and Southwest</title>
+      <description><![CDATA[Life inside a scoreboard and how to find the best seat on your next flight. ]]></description>
+      <pubDate>Fri, 11 Jul 2014 14:43:45 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/330748064/npr_330748064.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Life inside a scoreboard and how to find the best seat on your next flight. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Life inside a scoreboard and how to find the best seat on your next flight. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/330748064/npr_330748064.mp3?orgId=1&amp;e=330748064&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Water, Hawks, and 24</title>
+      <description><![CDATA[<p>How to get your very own bottled water past a TSA checkpoint, defend your international tennis tournament from varmints, and protect the President.&#160;</p>]]></description>
+      <pubDate>Thu, 03 Jul 2014 18:33:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/328262965/npr_328262965.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to get your very own bottled water past a TSA checkpoint, defend your international tennis tournament from varmints, and protect the President.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to get your very own bottled water past a TSA checkpoint, defend your international tennis tournament from varmints, and protect the President.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/328262965/npr_328262965.mp3?orgId=1&amp;e=328262965&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Meatballs, Manatees, and More</title>
+      <description><![CDATA[<p>How to make sense of a buffet,&#160;jump out of a plane, and swim like a manatee.&#160;</p>]]></description>
+      <pubDate>Fri, 27 Jun 2014 16:03:17 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/326207363/npr_326207363.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to make sense of a buffet,&#160;jump out of a plane, and swim like a manatee.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to make sense of a buffet,&#160;jump out of a plane, and swim like a manatee.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/326207363/npr_326207363.mp3?orgId=1&amp;e=326207363&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Moments, Ounces and Atoms</title>
+      <description><![CDATA[We tell you the worst way to clean your chimney, how to take moment and the one thing you should be scared of this week.]]></description>
+      <pubDate>Fri, 20 Jun 2014 14:13:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/323987558/npr_323987558.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We tell you the worst way to clean your chimney, how to take moment and the one thing you should be scared of this week.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We tell you the worst way to clean your chimney, how to take moment and the one thing you should be scared of this week.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/323987558/npr_323987558.mp3?orgId=1&amp;e=323987558&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reclaiming Poindexter</title>
+      <description><![CDATA[How to prepare for the World Cup, and how to tell your parents you're getting married. Plus: the moon, the tides, and a man who wasn't entirely happy with a recent episode of "Wait, Wait...Don't Tell Me."]]></description>
+      <pubDate>Wed, 11 Jun 2014 19:23:18 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/321101957/npr_321101957.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to prepare for the World Cup, and how to tell your parents you're getting married. Plus: the moon, the tides, and a man who wasn't entirely happy with a recent episode of "Wait, Wait...Don't Tell Me."]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to prepare for the World Cup, and how to tell your parents you're getting married. Plus: the moon, the tides, and a man who wasn't entirely happy with a recent episode of "Wait, Wait...Don't Tell Me."]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/321101957/npr_321101957.mp3?orgId=1&amp;e=321101957&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Human Feet and Graham Crackers</title>
+      <description><![CDATA[<p>How to have less fun at the beach, and how to enjoy graham crackers.&#160;</p>]]></description>
+      <pubDate>Fri, 30 May 2014 22:13:31 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/317534424/npr_317534424.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to have less fun at the beach, and how to enjoy graham crackers.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to have less fun at the beach, and how to enjoy graham crackers.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/317534424/npr_317534424.mp3?orgId=1&amp;e=317534424&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dr. Down, Whales and Something Scary</title>
+      <description><![CDATA[<p>How to introduce yourself, get rid of that whale on&#160;the&#160;beach, plus the one thing you should be afraid of this week.</p>]]></description>
+      <pubDate>Fri, 23 May 2014 17:13:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/315292723/npr_315292723.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to introduce yourself, get rid of that whale on&#160;the&#160;beach, plus the one thing you should be afraid of this week.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to introduce yourself, get rid of that whale on&#160;the&#160;beach, plus the one thing you should be afraid of this week.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/315292723/npr_315292723.mp3?orgId=1&amp;e=315292723&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Meat Pi?ata</title>
+      <description><![CDATA[The inside story on the greatest burp ever burped, how wild animals celebrate Cinco de Mayo, and more. ]]></description>
+      <pubDate>Fri, 16 May 2014 17:13:29 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/313169492/npr_313169492.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The inside story on the greatest burp ever burped, how wild animals celebrate Cinco de Mayo, and more. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The inside story on the greatest burp ever burped, how wild animals celebrate Cinco de Mayo, and more. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/313169492/npr_313169492.mp3?orgId=1&amp;e=313169492&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Gilligan Rule</title>
+      <description><![CDATA[Breaking Bad's Vince Gilligan determines exactly how long people need to wait before talking about spoilers, Mary Roach helps a listener with a fart-related question, and more.]]></description>
+      <pubDate>Fri, 09 May 2014 15:43:31 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/311117899/npr_311117899.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Breaking Bad's Vince Gilligan determines exactly how long people need to wait before talking about spoilers, Mary Roach helps a listener with a fart-related question, and more.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Breaking Bad's Vince Gilligan determines exactly how long people need to wait before talking about spoilers, Mary Roach helps a listener with a fart-related question, and more.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/311117899/npr_311117899.mp3?orgId=1&amp;e=311117899&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dinosaur Baths and Hot Enchiladas</title>
+      <description><![CDATA[This week we tell you how to bathe your T.rex and eat your lunch without burning yourself.]]></description>
+      <pubDate>Fri, 02 May 2014 17:23:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/309058691/npr_309058691.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we tell you how to bathe your T.rex and eat your lunch without burning yourself.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we tell you how to bathe your T.rex and eat your lunch without burning yourself.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/309058691/npr_309058691.mp3?orgId=1&amp;e=309058691&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Peeps, Dolphins, and Video Games</title>
+      <description><![CDATA[How to get rid of those leftover Marshmallow Peeps, make good use of your pet dolphin, and play video games forever. ]]></description>
+      <pubDate>Fri, 25 Apr 2014 15:13:34 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/306872638/npr_306872638.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get rid of those leftover Marshmallow Peeps, make good use of your pet dolphin, and play video games forever. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get rid of those leftover Marshmallow Peeps, make good use of your pet dolphin, and play video games forever. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/306872638/npr_306872638.mp3?orgId=1&amp;e=306872638&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mr Hand, Curveballs and Flaming Doritos</title>
+      <description><![CDATA[<p>This week we tell you how to make a rat laugh, throw a better breaking ball and start a fire with snacks.</p>]]></description>
+      <pubDate>Fri, 18 Apr 2014 17:13:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/304588243/npr_304588243.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell you how to make a rat laugh, throw a better breaking ball and start a fire with snacks.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell you how to make a rat laugh, throw a better breaking ball and start a fire with snacks.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/304588243/npr_304588243.mp3?orgId=1&amp;e=304588243&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Yes, No, and Present</title>
+      <description><![CDATA[<p>How to avoid a bad bee sting, get back at bad Facebook posters, and look cool when you're carrying a&#160;Trapper Keeper.&#160;</p>]]></description>
+      <pubDate>Fri, 11 Apr 2014 18:13:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/301980410/npr_301980410.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to avoid a bad bee sting, get back at bad Facebook posters, and look cool when you're carrying a&#160;Trapper Keeper.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to avoid a bad bee sting, get back at bad Facebook posters, and look cool when you're carrying a&#160;Trapper Keeper.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/301980410/npr_301980410.mp3?orgId=1&amp;e=301980410&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Frozen, Floods and Chips</title>
+      <description><![CDATA[How to open a bag of chips, save all the animals and go up to bat. Plus, Jeff Garlin tells us how to pick the perfect Christmas tree.]]></description>
+      <pubDate>Fri, 04 Apr 2014 16:03:18 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/299185168/npr_299185168.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to open a bag of chips, save all the animals and go up to bat. Plus, Jeff Garlin tells us how to pick the perfect Christmas tree.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to open a bag of chips, save all the animals and go up to bat. Plus, Jeff Garlin tells us how to pick the perfect Christmas tree.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/299185168/npr_299185168.mp3?orgId=1&amp;e=299185168&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Driving, Sneezing and Zombie Cologne</title>
+      <description><![CDATA[This week we tell you how to fool zombies, how to sneeze in the Daytona 500 and we find another reason to love fried shrimp.]]></description>
+      <pubDate>Fri, 28 Mar 2014 16:53:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/295850490/npr_295850490.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we tell you how to fool zombies, how to sneeze in the Daytona 500 and we find another reason to love fried shrimp.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we tell you how to fool zombies, how to sneeze in the Daytona 500 and we find another reason to love fried shrimp.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/295850490/npr_295850490.mp3?orgId=1&amp;e=295850490&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Clothes, Dice, and Food</title>
+      <description><![CDATA[<p>How to save money on clothes without giving up anything but your dignity, minimize the number of fights during Monopoly, and get the excellent restaurant service you don't deserve.&#160;</p>]]></description>
+      <pubDate>Fri, 21 Mar 2014 16:13:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/292475875/npr_292475875.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to save money on clothes without giving up anything but your dignity, minimize the number of fights during Monopoly, and get the excellent restaurant service you don't deserve.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to save money on clothes without giving up anything but your dignity, minimize the number of fights during Monopoly, and get the excellent restaurant service you don't deserve.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/292475875/npr_292475875.mp3?orgId=1&amp;e=292475875&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cologne, Nimrods, and The Chicago River</title>
+      <description><![CDATA[<p>How to get rid of that perfume you never wear, properly call someone a nimrod, and celebrate St.Patrick's Day Chicago style.&#160;</p>]]></description>
+      <pubDate>Fri, 14 Mar 2014 17:13:28 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/290254267/npr_290254267.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to get rid of that perfume you never wear, properly call someone a nimrod, and celebrate St.Patrick's Day Chicago style.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to get rid of that perfume you never wear, properly call someone a nimrod, and celebrate St.Patrick's Day Chicago style.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/290254267/npr_290254267.mp3?orgId=1&amp;e=290254267&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Weather, Cats, and Hockey</title>
+      <description><![CDATA[How to properly make use of your cat, and how to make it in the NHL. Plus special guest meteorologist Paula Poundstone gives us our first ever weather report. ]]></description>
+      <pubDate>Sat, 08 Mar 2014 21:24:47 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/287917935/npr_287917935.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to properly make use of your cat, and how to make it in the NHL. Plus special guest meteorologist Paula Poundstone gives us our first ever weather report. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to properly make use of your cat, and how to make it in the NHL. Plus special guest meteorologist Paula Poundstone gives us our first ever weather report. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/287917935/npr_287917935.mp3?orgId=1&amp;e=287917935&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Groundhog Day, Oscars, and Squat Thrusts</title>
+      <description><![CDATA[<p>&#160;</p><p class="p1">We remember Harold Ramis by learning how the movie <em>Groundhog Day</em> was almost very different, John Lithgow tells us how to play it cool at the Oscars, and we help a listener find love at the gym</p>]]></description>
+      <pubDate>Thu, 27 Feb 2014 19:53:22 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/283647542/npr_283647542.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>&#160;</p><p class="p1">We remember Harold Ramis by learning how the movie <em>Groundhog Day</em> was almost very different, John Lithgow tells us how to play it cool at the Oscars, and we help a listener find love at the gym</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>&#160;</p><p class="p1">We remember Harold Ramis by learning how the movie <em>Groundhog Day</em> was almost very different, John Lithgow tells us how to play it cool at the Oscars, and we help a listener find love at the gym</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/283647542/npr_283647542.mp3?orgId=1&amp;e=283647542&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bees, Bees and Cans</title>
+      <description><![CDATA[This week we learn how to beat a spelling bee, how to talk to bees and a new use for cement.]]></description>
+      <pubDate>Mon, 24 Feb 2014 19:53:21 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/282194256/npr_282194256.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we learn how to beat a spelling bee, how to talk to bees and a new use for cement.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we learn how to beat a spelling bee, how to talk to bees and a new use for cement.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/282194256/npr_282194256.mp3?orgId=1&amp;e=282194256&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Verkhoyansk, Hijacking, and Puffy Coats</title>
+      <description><![CDATA[<p>How to feel better about this freezing winter, and how to prevent a hijacking. Plus, something to think about when you're smashed between two people in puffy coats on the subway.&#160;</p><p>And if you're playing along at home: it's spelled Verkhoyansk.&#160;</p>]]></description>
+      <pubDate>Fri, 14 Feb 2014 02:53:26 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/276762125/npr_276762125.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to feel better about this freezing winter, and how to prevent a hijacking. Plus, something to think about when you're smashed between two people in puffy coats on the subway.&#160;</p><p>And if you're playing along at home: it's spelled Verkhoyansk.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to feel better about this freezing winter, and how to prevent a hijacking. Plus, something to think about when you're smashed between two people in puffy coats on the subway.&#160;</p><p>And if you're playing along at home: it's spelled Verkhoyansk.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/276762125/npr_276762125.mp3?orgId=1&amp;e=276762125&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tiny Catapults, The Tug Of War, and Seth: The Human Glacier</title>
+      <description><![CDATA[<p>This week we tell you how to move like a glacier, write a cartoon musical and lose friends.&#160;</p>]]></description>
+      <pubDate>Fri, 07 Feb 2014 18:13:30 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/273184360/npr_273184360.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell you how to move like a glacier, write a cartoon musical and lose friends.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell you how to move like a glacier, write a cartoon musical and lose friends.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/273184360/npr_273184360.mp3?orgId=1&amp;e=273184360&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Arm Pits, Bunny Boots and Beer Slushies</title>
+      <description><![CDATA[<p>This week we tell you how to keep your beer from freezing, keep your hands warm at the South Pole and how to talk about the Super Bowl without saying Super Bowl.</p>]]></description>
+      <pubDate>Fri, 31 Jan 2014 17:23:24 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/269555016/npr_269555016.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell you how to keep your beer from freezing, keep your hands warm at the South Pole and how to talk about the Super Bowl without saying Super Bowl.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell you how to keep your beer from freezing, keep your hands warm at the South Pole and how to talk about the Super Bowl without saying Super Bowl.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/269555016/npr_269555016.mp3?orgId=1&amp;e=269555016&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rice Krispies, Names, and Spies</title>
+      <description><![CDATA[How to deal with an embarrassing name, and how to spy like a lady. Plus, a revelation that may change breakfast forever. ]]></description>
+      <pubDate>Fri, 24 Jan 2014 19:13:39 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/265813865/npr_265813865.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to deal with an embarrassing name, and how to spy like a lady. Plus, a revelation that may change breakfast forever. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to deal with an embarrassing name, and how to spy like a lady. Plus, a revelation that may change breakfast forever. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/265813865/npr_265813865.mp3?orgId=1&amp;e=265813865&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Demons, Tongues and A-Rod</title>
+      <description><![CDATA[<p></p><p class="p1">This week we tell you how to pour pulled cod like a pad kid, put out a fire like a frat boy and we help A-Rod figure out what to do this summer.&#160;</p>]]></description>
+      <pubDate>Fri, 17 Jan 2014 19:23:24 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/263524010/npr_263524010.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p></p><p class="p1">This week we tell you how to pour pulled cod like a pad kid, put out a fire like a frat boy and we help A-Rod figure out what to do this summer.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p></p><p class="p1">This week we tell you how to pour pulled cod like a pad kid, put out a fire like a frat boy and we help A-Rod figure out what to do this summer.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/263524010/npr_263524010.mp3?orgId=1&amp;e=263524010&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Electric Kisses and Polar Vortexes</title>
+      <description><![CDATA[How to take the spark out of your romance, survive the deep freeze, and growl like a radio bear.]]></description>
+      <pubDate>Fri, 10 Jan 2014 19:33:21 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/261467577/npr_261467577.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to take the spark out of your romance, survive the deep freeze, and growl like a radio bear.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to take the spark out of your romance, survive the deep freeze, and growl like a radio bear.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/261467577/npr_261467577.mp3?orgId=1&amp;e=261467577&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cow To Moo Everything</title>
+      <description><![CDATA[The great Sir Patrick Stewart, in perhaps the role of his life, helps a listener answer a question about cows. ]]></description>
+      <pubDate>Fri, 27 Dec 2013 11:03:17 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/257623826/npr_257623826.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The great Sir Patrick Stewart, in perhaps the role of his life, helps a listener answer a question about cows. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The great Sir Patrick Stewart, in perhaps the role of his life, helps a listener answer a question about cows. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/257623826/npr_257623826.mp3?orgId=1&amp;e=257623826&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Tips, Hugs, and Egg Nog</title>
+      <description><![CDATA[<p>How to get the best possible tip when you're waiting tables, how to hug properly, and Peter Sagal joins us for an Egg Nog taste test.&#160;</p>]]></description>
+      <pubDate>Fri, 20 Dec 2013 13:43:19 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/255827493/npr_255827493.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to get the best possible tip when you're waiting tables, how to hug properly, and Peter Sagal joins us for an Egg Nog taste test.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to get the best possible tip when you're waiting tables, how to hug properly, and Peter Sagal joins us for an Egg Nog taste test.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/255827493/npr_255827493.mp3?orgId=1&amp;e=255827493&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Autographs, Wrestling, and Babies</title>
+      <description><![CDATA[How to get an autograph, how to have a baby (but not how to make a baby), and a visit from pro wrestler Stone Cold Steve Austin. Plus: we talk to a couple winners of our Thanksgiving Travel Photo Contest!]]></description>
+      <pubDate>Fri, 13 Dec 2013 20:13:35 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/250865914/npr_250865914.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get an autograph, how to have a baby (but not how to make a baby), and a visit from pro wrestler Stone Cold Steve Austin. Plus: we talk to a couple winners of our Thanksgiving Travel Photo Contest!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get an autograph, how to have a baby (but not how to make a baby), and a visit from pro wrestler Stone Cold Steve Austin. Plus: we talk to a couple winners of our Thanksgiving Travel Photo Contest!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/250865914/npr_250865914.mp3?orgId=1&amp;e=250865914&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Fancy Feathers and The Full Beaver Moon.</title>
+      <description><![CDATA[<p>This week we tell where Big Bird comes from, how new colors get their names, plus the Full Beaver Moon.</p>]]></description>
+      <pubDate>Fri, 06 Dec 2013 18:43:25 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/249363346/npr_249363346.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell where Big Bird comes from, how new colors get their names, plus the Full Beaver Moon.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell where Big Bird comes from, how new colors get their names, plus the Full Beaver Moon.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/249363346/npr_249363346.mp3?orgId=1&amp;e=249363346&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Your Thanksgiving Survival Kit</title>
+      <description><![CDATA[A game to make horrible holiday travel slightly less horrible, political strategist David Axelrod helps you dodge those awkward Thanksgiving dinner conversations, and more. ]]></description>
+      <pubDate>Tue, 26 Nov 2013 20:33:22 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/247419695/npr_247419695.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A game to make horrible holiday travel slightly less horrible, political strategist David Axelrod helps you dodge those awkward Thanksgiving dinner conversations, and more. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A game to make horrible holiday travel slightly less horrible, political strategist David Axelrod helps you dodge those awkward Thanksgiving dinner conversations, and more. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/247419695/npr_247419695.mp3?orgId=1&amp;e=247419695&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Love in Outer Space, Pressed Pants and The Humping Dog</title>
+      <description><![CDATA[This week an astronaut tells you how to have a long distance relationship, how to press your pants when taking a nap and how to spoon.]]></description>
+      <pubDate>Mon, 25 Nov 2013 10:45:28 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/247162605/npr_247162605.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week an astronaut tells you how to have a long distance relationship, how to press your pants when taking a nap and how to spoon.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week an astronaut tells you how to have a long distance relationship, how to press your pants when taking a nap and how to spoon.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/247162605/npr_247162605.mp3?orgId=1&amp;e=247162605&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Shipping, Basketball, and Wind</title>
+      <description><![CDATA[<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">How to ship a package in a way that will lessen the likelihood it gets destroyed, score an eight pointer when you&#8217;re playing basketball, and measure the wind. Plus: wordsearch winners! &#160;</span></p>]]></description>
+      <pubDate>Fri, 15 Nov 2013 19:03:23 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/245495899/npr_245495899.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">How to ship a package in a way that will lessen the likelihood it gets destroyed, score an eight pointer when you&#8217;re playing basketball, and measure the wind. Plus: wordsearch winners! &#160;</span></p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p class="MsoNormal"><span style="font-size: 10pt; font-family: Arial;">How to ship a package in a way that will lessen the likelihood it gets destroyed, score an eight pointer when you&#8217;re playing basketball, and measure the wind. Plus: wordsearch winners! &#160;</span></p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/245495899/npr_245495899.mp3?orgId=1&amp;e=245495899&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Coasters, Word Searches and Swearing</title>
+      <description><![CDATA[How to get free coasters, curse across the world and avoid offending people with your word search. Plus, one last Toilet of the Week.]]></description>
+      <pubDate>Fri, 08 Nov 2013 19:54:20 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/244025058/npr_244025058.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get free coasters, curse across the world and avoid offending people with your word search. Plus, one last Toilet of the Week.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get free coasters, curse across the world and avoid offending people with your word search. Plus, one last Toilet of the Week.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/244025058/npr_244025058.mp3?orgId=1&amp;e=244025058&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Batholiths, Milk and The Full Riker</title>
+      <description><![CDATA[<p class="MsoNormal"><span size="2" face="Arial" style="font-family: Arial; font-size: x-small;"><span style="font-size: 10pt;">How to tell your rock formations apart, introduce yourself to the wonderful world of Star Trek, and do a body good. Plus: a portable Toilet of the Week!&#160;<o:p></o:p></span></span></p>]]></description>
+      <pubDate>Fri, 01 Nov 2013 19:13:33 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/242437751/npr_242437751.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p class="MsoNormal"><span size="2" face="Arial" style="font-family: Arial; font-size: x-small;"><span style="font-size: 10pt;">How to tell your rock formations apart, introduce yourself to the wonderful world of Star Trek, and do a body good. Plus: a portable Toilet of the Week!&#160;<o:p></o:p></span></span></p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p class="MsoNormal"><span size="2" face="Arial" style="font-family: Arial; font-size: x-small;"><span style="font-size: 10pt;">How to tell your rock formations apart, introduce yourself to the wonderful world of Star Trek, and do a body good. Plus: a portable Toilet of the Week!&#160;<o:p></o:p></span></span></p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/242437751/npr_242437751.mp3?orgId=1&amp;e=242437751&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hal Needham, 1931-2013</title>
+      <description><![CDATA[Hal Needham, our favorite stuntman, died Friday at 82. He did stunts in more than 300 films, directed "Smokey and the Bandit" and "The Cannonball Run," won an Honorary Oscar last year, got a lot of speeding tickets, and broke a lot of bones. He was a regular guest on our show, and here we listen back to a few of our favorite moments with him. ]]></description>
+      <pubDate>Mon, 28 Oct 2013 17:27:52 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/241456846/npr_241456846.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Hal Needham, our favorite stuntman, died Friday at 82. He did stunts in more than 300 films, directed "Smokey and the Bandit" and "The Cannonball Run," won an Honorary Oscar last year, got a lot of speeding tickets, and broke a lot of bones. He was a regular guest on our show, and here we listen back to a few of our favorite moments with him. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Hal Needham, our favorite stuntman, died Friday at 82. He did stunts in more than 300 films, directed "Smokey and the Bandit" and "The Cannonball Run," won an Honorary Oscar last year, got a lot of speeding tickets, and broke a lot of bones. He was a regular guest on our show, and here we listen back to a few of our favorite moments with him. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/241456846/npr_241456846.mp3?orgId=1&amp;e=241456846&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Spitting Politely, Late Fees and Accordions in Jail</title>
+      <description><![CDATA[How to survive the food at a bar mitzvah, get out of jail and rack up billions in late fees. Plus, a spooky toilet of the week.]]></description>
+      <pubDate>Thu, 24 Oct 2013 16:03:18 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/240558563/npr_240558563.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to survive the food at a bar mitzvah, get out of jail and rack up billions in late fees. Plus, a spooky toilet of the week.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to survive the food at a bar mitzvah, get out of jail and rack up billions in late fees. Plus, a spooky toilet of the week.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/240558563/npr_240558563.mp3?orgId=1&amp;e=240558563&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Car Stereos, Ticks, and Water</title>
+      <description><![CDATA[<p>How to protect your valuables, discover a new species, and order water at a restaurant without looking like an idiot. Plus: an international Toilet of the Week!&#160;</p>]]></description>
+      <pubDate>Fri, 11 Oct 2013 20:33:21 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/232359805/npr_232359805.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to protect your valuables, discover a new species, and order water at a restaurant without looking like an idiot. Plus: an international Toilet of the Week!&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to protect your valuables, discover a new species, and order water at a restaurant without looking like an idiot. Plus: an international Toilet of the Week!&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/232359805/npr_232359805.mp3?orgId=1&amp;e=232359805&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Stink Fights, Corn Chips and Sour Toes</title>
+      <description><![CDATA[How to keep your dog safe on roadtrips, fight off a lemur and a trip to the Yukon.]]></description>
+      <pubDate>Fri, 04 Oct 2013 18:14:47 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/229304587/npr_229304587.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to keep your dog safe on roadtrips, fight off a lemur and a trip to the Yukon.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to keep your dog safe on roadtrips, fight off a lemur and a trip to the Yukon.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/229304587/npr_229304587.mp3?orgId=1&amp;e=229304587&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bees, Baseball and Heisenberg's Blue Meth</title>
+      <description><![CDATA[<p>How to stop a swarm of bees from ruining your game and a totally legal way to make blue crystal meth.*</p><p></p><p>*not actually crystal meth, but it is blue</p>]]></description>
+      <pubDate>Fri, 27 Sep 2013 18:58:37 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/226956055/npr_226956055.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to stop a swarm of bees from ruining your game and a totally legal way to make blue crystal meth.*</p><p></p><p>*not actually crystal meth, but it is blue</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to stop a swarm of bees from ruining your game and a totally legal way to make blue crystal meth.*</p><p></p><p>*not actually crystal meth, but it is blue</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/226956055/npr_226956055.mp3?orgId=1&amp;e=226956055&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reporting A Tough Story</title>
+      <description><![CDATA[<p>Washington Post reporter Ian Shapira talks about covering the Navy Yard shooting. And: now that the new iPhone has a fingerprint scanner, you don't have to enter in your password anymore, which saves you almost half a second. We'll tell you a few ways to spend that extra time.&#160;</p>]]></description>
+      <pubDate>Fri, 20 Sep 2013 17:13:37 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/224529136/npr_224529136.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>Washington Post reporter Ian Shapira talks about covering the Navy Yard shooting. And: now that the new iPhone has a fingerprint scanner, you don't have to enter in your password anymore, which saves you almost half a second. We'll tell you a few ways to spend that extra time.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>Washington Post reporter Ian Shapira talks about covering the Navy Yard shooting. And: now that the new iPhone has a fingerprint scanner, you don't have to enter in your password anymore, which saves you almost half a second. We'll tell you a few ways to spend that extra time.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/224529136/npr_224529136.mp3?orgId=1&amp;e=224529136&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Spoilers, Pronunciation, and Jury Duty</title>
+      <description><![CDATA[<p>How to avoid spoilers, pronounce a really, really, really long name, and get out of jury duty.&#160;</p>]]></description>
+      <pubDate>Tue, 17 Sep 2013 18:13:37 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/223494060/npr_223494060.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to avoid spoilers, pronounce a really, really, really long name, and get out of jury duty.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to avoid spoilers, pronounce a really, really, really long name, and get out of jury duty.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/223494060/npr_223494060.mp3?orgId=1&amp;e=223494060&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Christmas Singularity</title>
+      <description><![CDATA[How to get ready for a tennis match, plan a flea circus, and take a compliment. You look nice today, by the way. ]]></description>
+      <pubDate>Sat, 07 Sep 2013 16:43:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/220102571/npr_220102571.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get ready for a tennis match, plan a flea circus, and take a compliment. You look nice today, by the way. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get ready for a tennis match, plan a flea circus, and take a compliment. You look nice today, by the way. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/220102571/npr_220102571.mp3?orgId=1&amp;e=220102571&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>An Unsolved Mystery, The Bagel Tote and Dog Compliments</title>
+      <description><![CDATA[<p>How to compliment your dog, get your bagel sandwich to work without making a mess and twerking.</p>]]></description>
+      <pubDate>Sat, 31 Aug 2013 10:23:16 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/217546081/npr_217546081.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to compliment your dog, get your bagel sandwich to work without making a mess and twerking.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to compliment your dog, get your bagel sandwich to work without making a mess and twerking.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/217546081/npr_217546081.mp3?orgId=1&amp;e=217546081&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Olinguitos, Rock Shoulders and an Awkward Robot</title>
+      <description><![CDATA[<p>How to discover a new mammal, have the coolest name in baseball and make a robot laugh.</p>]]></description>
+      <pubDate>Fri, 23 Aug 2013 19:53:26 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/214954903/npr_214954903.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to discover a new mammal, have the coolest name in baseball and make a robot laugh.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to discover a new mammal, have the coolest name in baseball and make a robot laugh.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/214954903/npr_214954903.mp3?orgId=1&amp;e=214954903&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Man-Eating Fish, Rock Stars and a Photo Finish</title>
+      <description><![CDATA[How to clean up after a rock star and make the call on a photo finish. Plus, a special warning to our listeners in Scandinavia.]]></description>
+      <pubDate>Thu, 15 Aug 2013 14:23:26 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/212327732/npr_212327732.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to clean up after a rock star and make the call on a photo finish. Plus, a special warning to our listeners in Scandinavia.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to clean up after a rock star and make the call on a photo finish. Plus, a special warning to our listeners in Scandinavia.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/212327732/npr_212327732.mp3?orgId=1&amp;e=212327732&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Smoking, Stinking and Hypnotizing</title>
+      <description><![CDATA[How to deal with your smelly roommate using hypnosis or a plant.]]></description>
+      <pubDate>Fri, 02 Aug 2013 14:53:21 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/208314753/npr_208314753.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to deal with your smelly roommate using hypnosis or a plant.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to deal with your smelly roommate using hypnosis or a plant.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/208314753/npr_208314753.mp3?orgId=1&amp;e=208314753&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How To Move Your Gigantic Magnet</title>
+      <description><![CDATA[This week we join the crew from Fermi Lab on the final leg of their electromagnetic road trip.]]></description>
+      <pubDate>Fri, 26 Jul 2013 16:13:26 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/205854924/npr_205854924.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we join the crew from Fermi Lab on the final leg of their electromagnetic road trip.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we join the crew from Fermi Lab on the final leg of their electromagnetic road trip.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/205854924/npr_205854924.mp3?orgId=1&amp;e=205854924&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Smuggling, Ponies and Ice Cream</title>
+      <description><![CDATA[How to sound intelligent at the race track and smuggle money across the border. Plus, Peter Sagal tries your ice cream. ]]></description>
+      <pubDate>Fri, 19 Jul 2013 19:03:25 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/203745851/npr_203745851.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to sound intelligent at the race track and smuggle money across the border. Plus, Peter Sagal tries your ice cream. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to sound intelligent at the race track and smuggle money across the border. Plus, Peter Sagal tries your ice cream. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/203745851/npr_203745851.mp3?orgId=1&amp;e=203745851&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Poodles and Noodles</title>
+      <description><![CDATA[How to survive on a desert island, name your baby, and pass the time while you're waiting for your baby. Also, we like poodles and noodles. ]]></description>
+      <pubDate>Fri, 12 Jul 2013 22:03:52 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/201638393/npr_201638393.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to survive on a desert island, name your baby, and pass the time while you're waiting for your baby. Also, we like poodles and noodles. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to survive on a desert island, name your baby, and pass the time while you're waiting for your baby. Also, we like poodles and noodles. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/201638393/npr_201638393.mp3?orgId=1&amp;e=201638393&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Magnets, Airports, and Bees</title>
+      <description><![CDATA[How to move your really, really, really big magnet, survive when your flight get cancelled, and weigh your pet bee. Plus: your Toilet of the Week!]]></description>
+      <pubDate>Tue, 02 Jul 2013 18:33:22 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/198125273/npr_198125273.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to move your really, really, really big magnet, survive when your flight get cancelled, and weigh your pet bee. Plus: your Toilet of the Week!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to move your really, really, really big magnet, survive when your flight get cancelled, and weigh your pet bee. Plus: your Toilet of the Week!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/198125273/npr_198125273.mp3?orgId=1&amp;e=198125273&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>How To Keep Animals From Escaping Your Zoo</title>
+      <description><![CDATA[This week we tell you how to prepare your zookeepers to deal with a rogue panda.]]></description>
+      <pubDate>Fri, 28 Jun 2013 15:33:56 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/196684848/npr_196684848.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we tell you how to prepare your zookeepers to deal with a rogue panda.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we tell you how to prepare your zookeepers to deal with a rogue panda.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/196684848/npr_196684848.mp3?orgId=1&amp;e=196684848&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Monkey Fighters, and Finding A Stranger In The Alps</title>
+      <description><![CDATA[How to look cool as a cucumber when it’s hot as a something hot outside, and how to make something NSFW into something SFW. Plus: a technologically advanced toilet of the week, and more.  ]]></description>
+      <pubDate>Fri, 21 Jun 2013 18:43:23 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/194363168/npr_194363168.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to look cool as a cucumber when it’s hot as a something hot outside, and how to make something NSFW into something SFW. Plus: a technologically advanced toilet of the week, and more.  ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to look cool as a cucumber when it’s hot as a something hot outside, and how to make something NSFW into something SFW. Plus: a technologically advanced toilet of the week, and more.  ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/194363168/npr_194363168.mp3?orgId=1&amp;e=194363168&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Face-Offs, Ice Cream and You Got Served</title>
+      <description><![CDATA[<p>How to win in hockey, create a new flavor of ice cream, and another reason to be suspicious of the UPS guy. #HTDE111&#160;</p>]]></description>
+      <pubDate>Fri, 14 Jun 2013 15:07:41 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/191682445/npr_191682445.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to win in hockey, create a new flavor of ice cream, and another reason to be suspicious of the UPS guy. #HTDE111&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to win in hockey, create a new flavor of ice cream, and another reason to be suspicious of the UPS guy. #HTDE111&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/191682445/npr_191682445.mp3?orgId=1&amp;e=191682445&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Mobsters, Burritos and Goodbyes</title>
+      <description><![CDATA[This week tell you how to intimadate jurors, pronounce the longest word in Germany and deal with your stinky clothes.]]></description>
+      <pubDate>Fri, 07 Jun 2013 14:46:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/189566731/npr_189566731.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week tell you how to intimadate jurors, pronounce the longest word in Germany and deal with your stinky clothes.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week tell you how to intimadate jurors, pronounce the longest word in Germany and deal with your stinky clothes.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/189566731/npr_189566731.mp3?orgId=1&amp;e=189566731&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Butter, Demons, and Cheese</title>
+      <description><![CDATA[How to improve your butter experience 1000%, perform an exorcism, and obtain cheese in the most dangerous way possible. Plus: your Toilet of the Week! ]]></description>
+      <pubDate>Mon, 03 Jun 2013 13:28:21 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/188350541/npr_188350541.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to improve your butter experience 1000%, perform an exorcism, and obtain cheese in the most dangerous way possible. Plus: your Toilet of the Week! ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to improve your butter experience 1000%, perform an exorcism, and obtain cheese in the most dangerous way possible. Plus: your Toilet of the Week! ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/188350541/npr_188350541.mp3?orgId=1&amp;e=188350541&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cicadas, Basketball and Darth Vader</title>
+      <description><![CDATA[How to cook cicadas and how to be Darth Vader. Plus future NBA stars tell you how to be a basketball fan. ]]></description>
+      <pubDate>Fri, 24 May 2013 13:13:44 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/186460467/npr_186460467.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to cook cicadas and how to be Darth Vader. Plus future NBA stars tell you how to be a basketball fan. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to cook cicadas and how to be Darth Vader. Plus future NBA stars tell you how to be a basketball fan. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/186460467/npr_186460467.mp3?orgId=1&amp;e=186460467&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Spies, Patches and Bathtub Reading</title>
+      <description><![CDATA[<p>This week we tell you how to recruit a double agent, spruce up your uniform and keep your books dry.</p>]]></description>
+      <pubDate>Fri, 17 May 2013 18:33:21 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/184878825/npr_184878825.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell you how to recruit a double agent, spruce up your uniform and keep your books dry.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell you how to recruit a double agent, spruce up your uniform and keep your books dry.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/184878825/npr_184878825.mp3?orgId=1&amp;e=184878825&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Popcorn, Dr. Ruth and the Confidence Chamber</title>
+      <description><![CDATA[How to enjoy popcorn, survive the Confidence Chamber, and get a good night's sleep - with help from Dr. Ruth.]]></description>
+      <pubDate>Fri, 10 May 2013 15:33:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/182918179/npr_182918179.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to enjoy popcorn, survive the Confidence Chamber, and get a good night's sleep - with help from Dr. Ruth.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to enjoy popcorn, survive the Confidence Chamber, and get a good night's sleep - with help from Dr. Ruth.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/182918179/npr_182918179.mp3?orgId=1&amp;e=182918179&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Beer, One Night Stands and Bleeping Bleep</title>
+      <description><![CDATA[<p>How to talk beer, write an obituary and make the best of a badly timed one night stand.</p>]]></description>
+      <pubDate>Mon, 29 Apr 2013 14:30:04 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/179857966/npr_179857966.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to talk beer, write an obituary and make the best of a badly timed one night stand.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to talk beer, write an obituary and make the best of a badly timed one night stand.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/179857966/npr_179857966.mp3?orgId=1&amp;e=179857966&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sinkholes, Water Hazards and Construction Workers</title>
+      <description><![CDATA[<p>This week we tell you how to play golf without wearing any pants, fit in with construction workers and deal with sinkholes.</p>]]></description>
+      <pubDate>Fri, 19 Apr 2013 13:53:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/177964461/npr_177964461.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we tell you how to play golf without wearing any pants, fit in with construction workers and deal with sinkholes.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we tell you how to play golf without wearing any pants, fit in with construction workers and deal with sinkholes.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/177964461/npr_177964461.mp3?orgId=1&amp;e=177964461&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Movies, Bugs, and Hands</title>
+      <description><![CDATA[How to keep that guy behind you from talking all the way through the movie, spy on your enemies, and get a job in modeling even if you’ve got a weird face. Plus: our March Madness winner, and a very remote Toilet of the Week!]]></description>
+      <pubDate>Fri, 12 Apr 2013 17:03:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/177071513/npr_177071513.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to keep that guy behind you from talking all the way through the movie, spy on your enemies, and get a job in modeling even if you’ve got a weird face. Plus: our March Madness winner, and a very remote Toilet of the Week!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to keep that guy behind you from talking all the way through the movie, spy on your enemies, and get a job in modeling even if you’ve got a weird face. Plus: our March Madness winner, and a very remote Toilet of the Week!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/177071513/npr_177071513.mp3?orgId=1&amp;e=177071513&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>70 Days in Bed With Howard</title>
+      <description><![CDATA[How to prepare for a galactic journey.]]></description>
+      <pubDate>Fri, 05 Apr 2013 15:23:20 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/176362246/npr_176362246.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to prepare for a galactic journey.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to prepare for a galactic journey.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/176362246/npr_176362246.mp3?orgId=1&amp;e=176362246&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>B2s, Basketball and Romance</title>
+      <description><![CDATA[How to fly a space age war plane, how to explain love to your dog and a very special toilet of the week. Plus, a March Madness update with Dick Vitale.]]></description>
+      <pubDate>Fri, 29 Mar 2013 17:13:24 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/175726036/npr_175726036.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to fly a space age war plane, how to explain love to your dog and a very special toilet of the week. Plus, a March Madness update with Dick Vitale.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to fly a space age war plane, how to explain love to your dog and a very special toilet of the week. Plus, a March Madness update with Dick Vitale.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/175726036/npr_175726036.mp3?orgId=1&amp;e=175726036&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Beyonce, Rihanna, and The Talent Show to End All Talent Shows</title>
+      <description><![CDATA[How to win your elementary school talent show, keep your daughter from making fun of you, and drive as dangerously as possible. Two of these are a good idea.]]></description>
+      <pubDate>Fri, 22 Mar 2013 14:23:20 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/175059069/npr_175059069.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to win your elementary school talent show, keep your daughter from making fun of you, and drive as dangerously as possible. Two of these are a good idea.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to win your elementary school talent show, keep your daughter from making fun of you, and drive as dangerously as possible. Two of these are a good idea.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/175059069/npr_175059069.mp3?orgId=1&amp;e=175059069&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>McNuggets, Donkey Kong, and Drawing</title>
+      <description><![CDATA[How to make the perfect Chicken McNugget, celebrate the lifting of the NYC Soda Ban, and impress your three-year-old daughter. Plus the great comic book artist Chris Ware helps you learn to draw, and a very contemplative Toilet Of The Week!]]></description>
+      <pubDate>Mon, 18 Mar 2013 11:14:55 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/174630488/npr_174630488.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to make the perfect Chicken McNugget, celebrate the lifting of the NYC Soda Ban, and impress your three-year-old daughter. Plus the great comic book artist Chris Ware helps you learn to draw, and a very contemplative Toilet Of The Week!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to make the perfect Chicken McNugget, celebrate the lifting of the NYC Soda Ban, and impress your three-year-old daughter. Plus the great comic book artist Chris Ware helps you learn to draw, and a very contemplative Toilet Of The Week!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/174630488/npr_174630488.mp3?orgId=1&amp;e=174630488&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Deer, Cars, and Dogs</title>
+      <description><![CDATA[How to rescue a deer friend or human friend stuck out on the ice, and name your new car. Plus we listen back to an Iditarod dispatch as the great sled dog race goes on in Alaska. Plus: your Toilet of the Week, and we give you nicknames. ]]></description>
+      <pubDate>Fri, 08 Mar 2013 15:23:26 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/173838535/npr_173838535.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to rescue a deer friend or human friend stuck out on the ice, and name your new car. Plus we listen back to an Iditarod dispatch as the great sled dog race goes on in Alaska. Plus: your Toilet of the Week, and we give you nicknames. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to rescue a deer friend or human friend stuck out on the ice, and name your new car. Plus we listen back to an Iditarod dispatch as the great sled dog race goes on in Alaska. Plus: your Toilet of the Week, and we give you nicknames. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/173838535/npr_173838535.mp3?orgId=1&amp;e=173838535&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Keyboards, Jingles, and Oscars</title>
+      <description><![CDATA[How to clean your disgusting computer keyboard at work, sit comfortably at an awards show, and Barry Manilow helps a listener write a catchy jingle. Plus: our first ever Human Toilet of the Week!]]></description>
+      <pubDate>Fri, 01 Mar 2013 11:33:19 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/173242062/npr_173242062.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to clean your disgusting computer keyboard at work, sit comfortably at an awards show, and Barry Manilow helps a listener write a catchy jingle. Plus: our first ever Human Toilet of the Week!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to clean your disgusting computer keyboard at work, sit comfortably at an awards show, and Barry Manilow helps a listener write a catchy jingle. Plus: our first ever Human Toilet of the Week!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/173242062/npr_173242062.mp3?orgId=1&amp;e=173242062&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chips, Penguins, and Spy Planes</title>
+      <description><![CDATA[<p>How to open your bag of chips easily, every time, how to keep from falling on the ice, and how to test out your new spy plane. And of course, your Toilet of the Week.&#160;</p>]]></description>
+      <pubDate>Thu, 21 Feb 2013 22:02:39 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/172658855/npr_172658855.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to open your bag of chips easily, every time, how to keep from falling on the ice, and how to test out your new spy plane. And of course, your Toilet of the Week.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to open your bag of chips easily, every time, how to keep from falling on the ice, and how to test out your new spy plane. And of course, your Toilet of the Week.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/172658855/npr_172658855.mp3?orgId=1&amp;e=172658855&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Speeches, Speakers and Chinese Food</title>
+      <description><![CDATA[How to sit behind the president during the State of the Union Address and you'll never eat Chinese take-out the same again.]]></description>
+      <pubDate>Tue, 12 Feb 2013 18:34:49 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/171843622/npr_171843622.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to sit behind the president during the State of the Union Address and you'll never eat Chinese take-out the same again.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to sit behind the president during the State of the Union Address and you'll never eat Chinese take-out the same again.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/171843622/npr_171843622.mp3?orgId=1&amp;e=171843622&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Seals and Responses</title>
+      <description><![CDATA[<p>This week we learn how to create a presidential seal and how to give the official response to the State of the Union Address. Plus, a Toilet of the Week just in time for Mardi Gras.</p>]]></description>
+      <pubDate>Thu, 07 Feb 2013 15:28:02 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/171405239/npr_171405239.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>This week we learn how to create a presidential seal and how to give the official response to the State of the Union Address. Plus, a Toilet of the Week just in time for Mardi Gras.</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>This week we learn how to create a presidential seal and how to give the official response to the State of the Union Address. Plus, a Toilet of the Week just in time for Mardi Gras.</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/171405239/npr_171405239.mp3?orgId=1&amp;e=171405239&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Heads or Tails</title>
+      <description><![CDATA[How to cash in at the Super Bowl, camouflage your car, and a very, very special guest helps a listener learn to love baseball. Plus: your toilet of the week!]]></description>
+      <pubDate>Fri, 01 Feb 2013 15:13:45 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/170874048/npr_170874048.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to cash in at the Super Bowl, camouflage your car, and a very, very special guest helps a listener learn to love baseball. Plus: your toilet of the week!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to cash in at the Super Bowl, camouflage your car, and a very, very special guest helps a listener learn to love baseball. Plus: your toilet of the week!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/170874048/npr_170874048.mp3?orgId=1&amp;e=170874048&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Photos, Football, and Shrek</title>
+      <description><![CDATA[How to take a portrait of President Obama, how to play wide receiver in the NFL, and how to take on the role of Shrek in your high school musical. Plus: Producer Blythe goes out into the world to find our Toilet of the Week. ]]></description>
+      <pubDate>Fri, 25 Jan 2013 22:02:21 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/170317503/npr_170317503.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to take a portrait of President Obama, how to play wide receiver in the NFL, and how to take on the role of Shrek in your high school musical. Plus: Producer Blythe goes out into the world to find our Toilet of the Week. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to take a portrait of President Obama, how to play wide receiver in the NFL, and how to take on the role of Shrek in your high school musical. Plus: Producer Blythe goes out into the world to find our Toilet of the Week. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/170317503/npr_170317503.mp3?orgId=1&amp;e=170317503&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ponytails, Armstrong, and Frogs</title>
+      <description><![CDATA[<p>How to make the best ponytail possible, keep your milk from going bad, and use those old Livestrong bracelets you're not wearing anymore. Plus, Saturday Night Live & Portlandia's Fred Armisen comes back to help you with another problem.&#160;</p>]]></description>
+      <pubDate>Fri, 18 Jan 2013 22:21:16 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/169757433/npr_169757433.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to make the best ponytail possible, keep your milk from going bad, and use those old Livestrong bracelets you're not wearing anymore. Plus, Saturday Night Live & Portlandia's Fred Armisen comes back to help you with another problem.&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to make the best ponytail possible, keep your milk from going bad, and use those old Livestrong bracelets you're not wearing anymore. Plus, Saturday Night Live & Portlandia's Fred Armisen comes back to help you with another problem.&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/169757433/npr_169757433.mp3?orgId=1&amp;e=169757433&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 90: Bill Pullman, Bill Paxton, and Gerard Depardieu</title>
+      <description><![CDATA[How to remember which one's Bill Pullman and which one's Bill Paxton, how to act like a local in Russia, and an international Toilet of the Week. Also, for our Jurassic listeners, how to ride a dinosaur. ]]></description>
+      <pubDate>Fri, 11 Jan 2013 18:40:03 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/169184654/npr_169184654.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to remember which one's Bill Pullman and which one's Bill Paxton, how to act like a local in Russia, and an international Toilet of the Week. Also, for our Jurassic listeners, how to ride a dinosaur. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to remember which one's Bill Pullman and which one's Bill Paxton, how to act like a local in Russia, and an international Toilet of the Week. Also, for our Jurassic listeners, how to ride a dinosaur. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/169184654/npr_169184654.mp3?orgId=1&amp;e=169184654&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gum &amp; Onions</title>
+      <description><![CDATA[How to keep from crying when you chop onions, how to finish that joke from Dumb & Dumber, and a childhood fear gets investigated. ]]></description>
+      <pubDate>Fri, 04 Jan 2013 19:19:38 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/168656646/npr_168656646.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to keep from crying when you chop onions, how to finish that joke from Dumb & Dumber, and a childhood fear gets investigated. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to keep from crying when you chop onions, how to finish that joke from Dumb & Dumber, and a childhood fear gets investigated. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/168656646/npr_168656646.mp3?orgId=1&amp;e=168656646&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Planes, Boats, and Looking Cool</title>
+      <description><![CDATA[How to test out an airplane, look cool, and set up a classic joke. Plus: our toilet of the week, and the beginning and end of our new segment, "Nautical Notes." ]]></description>
+      <pubDate>Fri, 21 Dec 2012 14:57:15 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/167815384/npr_167815384.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to test out an airplane, look cool, and set up a classic joke. Plus: our toilet of the week, and the beginning and end of our new segment, "Nautical Notes." ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to test out an airplane, look cool, and set up a classic joke. Plus: our toilet of the week, and the beginning and end of our new segment, "Nautical Notes." ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/167815384/npr_167815384.mp3?orgId=1&amp;e=167815384&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Crash Blossoms, Smuggling, and Standup</title>
+      <description><![CDATA[How to smuggle drugs across the border (or stop a drug smuggler, if that's more your thing), become a standup comedian, and root for your favorite team. Plus: our toilet of the week! ]]></description>
+      <pubDate>Fri, 14 Dec 2012 20:05:11 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/167296601/npr_167296601.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to smuggle drugs across the border (or stop a drug smuggler, if that's more your thing), become a standup comedian, and root for your favorite team. Plus: our toilet of the week! ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to smuggle drugs across the border (or stop a drug smuggler, if that's more your thing), become a standup comedian, and root for your favorite team. Plus: our toilet of the week! ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/167296601/npr_167296601.mp3?orgId=1&amp;e=167296601&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Power &amp; Hotels</title>
+      <description><![CDATA[<p>Just a quick show this week as we're on the road, but we will tell you how to charge your phone when you forget your power adapter, and we talk to author Lee Child. He writes the Jack Reacher books, about a guy who pretty much knows how to do everything. Plus: your toilet of the week!&#160;</p>]]></description>
+      <pubDate>Fri, 07 Dec 2012 13:40:13 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744321/npr_166744321.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>Just a quick show this week as we're on the road, but we will tell you how to charge your phone when you forget your power adapter, and we talk to author Lee Child. He writes the Jack Reacher books, about a guy who pretty much knows how to do everything. Plus: your toilet of the week!&#160;</p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>Just a quick show this week as we're on the road, but we will tell you how to charge your phone when you forget your power adapter, and we talk to author Lee Child. He writes the Jack Reacher books, about a guy who pretty much knows how to do everything. Plus: your toilet of the week!&#160;</p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744321/npr_166744321.mp3?orgId=1&amp;e=166744321&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hecklers, Cheetahs, and Goodbyes</title>
+      <description><![CDATA[<p>How to face down a heckler, make a movie with a cheetah, and get off the phone. Plus: our first international Toilet of the Week!&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/uuThu3a_p-A" height="1" width="1" /></p>]]></description>
+      <pubDate>Fri, 30 Nov 2012 20:13:48 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744318/npr_166744318.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to face down a heckler, make a movie with a cheetah, and get off the phone. Plus: our first international Toilet of the Week!&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/uuThu3a_p-A" height="1" width="1" /></p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to face down a heckler, make a movie with a cheetah, and get off the phone. Plus: our first international Toilet of the Week!&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/uuThu3a_p-A" height="1" width="1" /></p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744318/npr_166744318.mp3?orgId=1&amp;e=166744318&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Thanksgiving Episode</title>
+      <description><![CDATA[<p>How to always win the wishbone pull, and navigate Thanksgiving family drama. Plus: Paula Deen on turkey, and we talk pumpkin pie with James Iha of the Smashing Pumpkins. Seriously.&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/q2jfXAMH1Cc" height="1" width="1" /></p>]]></description>
+      <pubDate>Tue, 20 Nov 2012 15:31:37 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744311/npr_166744311.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[<p>How to always win the wishbone pull, and navigate Thanksgiving family drama. Plus: Paula Deen on turkey, and we talk pumpkin pie with James Iha of the Smashing Pumpkins. Seriously.&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/q2jfXAMH1Cc" height="1" width="1" /></p>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[<p>How to always win the wishbone pull, and navigate Thanksgiving family drama. Plus: Paula Deen on turkey, and we talk pumpkin pie with James Iha of the Smashing Pumpkins. Seriously.&#160;</p><p></p><div><span><br /></span></div><p><img src="http://feeds.feedburner.com/~r/howto/noWU/~4/q2jfXAMH1Cc" height="1" width="1" /></p>]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744311/npr_166744311.mp3?orgId=1&amp;e=166744311&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Bumper Stickers, Scandals, and Bugs</title>
+      <description><![CDATA[How to get a bumper sticker off your car, find a suitable substitute during a cockroach shortage (this is something that happens, apparently), and read a woman’s t-shirt without looking like a creep. Plus, Carl Bernstein, of Woodward and Bernstein, helps us put a name on the Petraeus Scandal. ]]></description>
+      <pubDate>Thu, 15 Nov 2012 15:36:27 -0500</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744212/npr_166744212.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get a bumper sticker off your car, find a suitable substitute during a cockroach shortage (this is something that happens, apparently), and read a woman’s t-shirt without looking like a creep. Plus, Carl Bernstein, of Woodward and Bernstein, helps us put a name on the Petraeus Scandal. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get a bumper sticker off your car, find a suitable substitute during a cockroach shortage (this is something that happens, apparently), and read a woman’s t-shirt without looking like a creep. Plus, Carl Bernstein, of Woodward and Bernstein, helps us put a name on the Petraeus Scandal. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166744212/npr_166744212.mp3?orgId=1&amp;e=166744212&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Skeuomorphs, Hurricanes, and Showtunes</title>
+      <description><![CDATA[How to stop a hurricane and win every single swing state. Plus the lovely Kristin Chenoweth helps you sing a showtune, with assistance from another very special guest. ]]></description>
+      <pubDate>Fri, 02 Nov 2012 15:10:00 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746853/npr_166746853.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to stop a hurricane and win every single swing state. Plus the lovely Kristin Chenoweth helps you sing a showtune, with assistance from another very special guest. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to stop a hurricane and win every single swing state. Plus the lovely Kristin Chenoweth helps you sing a showtune, with assistance from another very special guest. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746853/npr_166746853.mp3?orgId=1&amp;e=166746853&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Apple, Baseball, and Halloween</title>
+      <description><![CDATA[A look inside the Apple Store Employee Manual, how to enjoy the World Series if you’re like Ian and you don’t know a thing about baseball, and how to make a good Halloween costume.]]></description>
+      <pubDate>Fri, 26 Oct 2012 14:05:48 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746843/npr_166746843.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A look inside the Apple Store Employee Manual, how to enjoy the World Series if you’re like Ian and you don’t know a thing about baseball, and how to make a good Halloween costume.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A look inside the Apple Store Employee Manual, how to enjoy the World Series if you’re like Ian and you don’t know a thing about baseball, and how to make a good Halloween costume.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746843/npr_166746843.mp3?orgId=1&amp;e=166746843&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lunch, Art, Cows, and Miracles</title>
+      <description><![CDATA[How to always remember your lunch, steal a million dollar painting, hang out with a farmer, and more. Plus: our Toilet of the Week.]]></description>
+      <pubDate>Wed, 17 Oct 2012 22:38:25 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746840/npr_166746840.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to always remember your lunch, steal a million dollar painting, hang out with a farmer, and more. Plus: our Toilet of the Week.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to always remember your lunch, steal a million dollar painting, hang out with a farmer, and more. Plus: our Toilet of the Week.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746840/npr_166746840.mp3?orgId=1&amp;e=166746840&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cupcakes, S'mores, Plants, and Toilets</title>
+      <description><![CDATA[How to eat a cupcake, make s’mores properly, and maybe, just maybe, help your plants grow. Plus, our Toilet Of The Week! ]]></description>
+      <pubDate>Fri, 12 Oct 2012 16:25:28 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746826/npr_166746826.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to eat a cupcake, make s’mores properly, and maybe, just maybe, help your plants grow. Plus, our Toilet Of The Week! ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to eat a cupcake, make s’mores properly, and maybe, just maybe, help your plants grow. Plus, our Toilet Of The Week! ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746826/npr_166746826.mp3?orgId=1&amp;e=166746826&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Public Toilets, Debate Prep and Nintendo</title>
+      <description><![CDATA[We tell you how to prepare for your presidential debate, fix your old Nintendo games and begin our most ambitious project ever.]]></description>
+      <pubDate>Fri, 05 Oct 2012 12:41:12 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746823/npr_166746823.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We tell you how to prepare for your presidential debate, fix your old Nintendo games and begin our most ambitious project ever.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We tell you how to prepare for your presidential debate, fix your old Nintendo games and begin our most ambitious project ever.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746823/npr_166746823.mp3?orgId=1&amp;e=166746823&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rompers, Sloshing, and Announcing</title>
+      <description><![CDATA[How to dress for the office, keep coffee off your pants, and take over the mic at a volleyball game. Plus: why you always lose at crane games. ]]></description>
+      <pubDate>Fri, 28 Sep 2012 19:25:00 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746819/npr_166746819.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to dress for the office, keep coffee off your pants, and take over the mic at a volleyball game. Plus: why you always lose at crane games. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to dress for the office, keep coffee off your pants, and take over the mic at a volleyball game. Plus: why you always lose at crane games. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746819/npr_166746819.mp3?orgId=1&amp;e=166746819&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pocket Squares, Mustaches and Secret Videos</title>
+      <description><![CDATA[This week we learn how to care for a new mustache, pick a pocket square and recover from an embarrassing video.]]></description>
+      <pubDate>Thu, 20 Sep 2012 12:56:16 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746796/npr_166746796.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week we learn how to care for a new mustache, pick a pocket square and recover from an embarrassing video.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week we learn how to care for a new mustache, pick a pocket square and recover from an embarrassing video.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746796/npr_166746796.mp3?orgId=1&amp;e=166746796&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Strikes and Alibis</title>
+      <description><![CDATA[How to lie about your secret mission and talk about strikes. Plus info about the How To meetup in Atlanta.]]></description>
+      <pubDate>Fri, 14 Sep 2012 11:52:19 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746770/npr_166746770.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to lie about your secret mission and talk about strikes. Plus info about the How To meetup in Atlanta.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to lie about your secret mission and talk about strikes. Plus info about the How To meetup in Atlanta.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746770/npr_166746770.mp3?orgId=1&amp;e=166746770&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Corn, Refs, and Ikea</title>
+      <description><![CDATA[How to get your corn off the cob, ref an NFL game, name your modern Swedish furniture, and more!]]></description>
+      <pubDate>Fri, 07 Sep 2012 18:45:25 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746562/npr_166746562.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to get your corn off the cob, ref an NFL game, name your modern Swedish furniture, and more!]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to get your corn off the cob, ref an NFL game, name your modern Swedish furniture, and more!]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746562/npr_166746562.mp3?orgId=1&amp;e=166746562&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Only Olympics Guide You'll Ever Need</title>
+      <description><![CDATA[With how to advice from: Sir Patrick Stewart, US Olympian Matt Tegenkamp, New Zealand Olympian Quentin Rew, Nigerian Olympian Koko Archibong, Australian Olympian Russel Mark, Senator and Olympic Gold Medalist Bill Bradley, Canadian Curler Kristie Moore, and more. ]]></description>
+      <pubDate>Fri, 27 Jul 2012 00:35:58 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746219/npr_166746219.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[With how to advice from: Sir Patrick Stewart, US Olympian Matt Tegenkamp, New Zealand Olympian Quentin Rew, Nigerian Olympian Koko Archibong, Australian Olympian Russel Mark, Senator and Olympic Gold Medalist Bill Bradley, Canadian Curler Kristie Moore, and more. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[With how to advice from: Sir Patrick Stewart, US Olympian Matt Tegenkamp, New Zealand Olympian Quentin Rew, Nigerian Olympian Koko Archibong, Australian Olympian Russel Mark, Senator and Olympic Gold Medalist Bill Bradley, Canadian Curler Kristie Moore, and more. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746219/npr_166746219.mp3?orgId=1&amp;e=166746219&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Treasure, Vetting, and Zombies</title>
+      <description><![CDATA[How to save money at an outdoor music festival, zombie-proof your car, and become a Blue Man. Plus, Governor Evan Bayh tells us how to survive the VP vetting process.]]></description>
+      <pubDate>Thu, 19 Jul 2012 18:30:53 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746202/npr_166746202.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How to save money at an outdoor music festival, zombie-proof your car, and become a Blue Man. Plus, Governor Evan Bayh tells us how to survive the VP vetting process.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How to save money at an outdoor music festival, zombie-proof your car, and become a Blue Man. Plus, Governor Evan Bayh tells us how to survive the VP vetting process.]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166746202/npr_166746202.mp3?orgId=1&amp;e=166746202&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Some Old Segments You Might Like</title>
+      <description><![CDATA[Mike and Ian are out of the office this week. But we went way back to the early episodes to find the old segments we’re actually not embarrassed of! If you’ve heard every episode, maybe skip this. But if you’re a new listener, we’ll tell you how to act around celebrities, how to run for office, how to bring a stale bagel back to life, and more. See you next week with the regular new stuff. ]]></description>
+      <pubDate>Wed, 11 Jul 2012 14:57:10 -0400</pubDate>
+      <copyright>NPR 2012</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166745304/npr_166745304.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Mike and Ian are out of the office this week. But we went way back to the early episodes to find the old segments we’re actually not embarrassed of! If you’ve heard every episode, maybe skip this. But if you’re a new listener, we’ll tell you how to act around celebrities, how to run for office, how to bring a stale bagel back to life, and more. See you next week with the regular new stuff. ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Mike and Ian are out of the office this week. But we went way back to the early episodes to find the old segments we’re actually not embarrassed of! If you’ve heard every episode, maybe skip this. But if you’re a new listener, we’ll tell you how to act around celebrities, how to run for office, how to bring a stale bagel back to life, and more. See you next week with the regular new stuff. ]]></itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510303/166745304/npr_166745304.mp3?orgId=1&amp;e=166745304&amp;ft=pod&amp;f=510303" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>

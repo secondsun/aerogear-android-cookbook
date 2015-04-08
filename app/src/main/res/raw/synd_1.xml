@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://devnexus.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>DevNexus Podcast</title>
+		<pubDate>Wed, 05 Nov 2014 19:34:55 +0000</pubDate>
+		<lastBuildDate>Thu, 26 Mar 2015 07:17:11 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://www.devnexus.com/</link>
+		<language>en</language>
+		<copyright><![CDATA[]]></copyright>
+		<docs>http://www.devnexus.com/</docs>
+		<managingEditor>info@ajug.org (info@ajug.org)</managingEditor>
+		<description><![CDATA[The DevNexus Podcast contains audio sessions from the DevNexus developer conference and the Atlanta Java Users Group (AJUG).]]></description>
+		<image>
+			<url>http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png</url>
+			<title>DevNexus Podcast</title>
+			<link><![CDATA[http://www.devnexus.com/]]></link>
+		</image>
+		<itunes:author>Atlanta Java Users Group</itunes:author>
+		<itunes:keywords>agile,html5,java,mobile,software,softwaredevelopment</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting"/>
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To"/>
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News"/>
+	</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Gunnar Hillert]]></itunes:name>
+			<itunes:email>gunnar@hillert.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary><![CDATA[]]></itunes:summary>
+		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+				<item>
+			<title>Devnexus 2014 - Yulin Zhao - Achieving more with less l a real-world case study - Accelerating Quality Batch Delivery with Spring Batch.mp3</title>
+			<pubDate>Wed, 05 Nov 2014 19:34:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[16a3e9115105b4b2a095f9f4e49109ae]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Yulin_Zhao_-_Achieving_more_with_less_l_a_real-world_case_study_-_Accelerating_Quality_Batch_Delivery_with_Spring_Batch.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="60462066" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Yulin_Zhao_-_Achieving_more_with_less_l_a_real-world_case_study_-_Accelerating_Quality_Batch_Delivery_with_Spring_Batch.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Yakov Fain - Seven Versions of one Web application.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:15:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6432f1ef074a2f502cbf941c2f0a276e]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Yakov_Fain_-_Seven_Versions_of_one_Web_application.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="41474728" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Yakov_Fain_-_Seven_Versions_of_one_Web_application.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Verlin Henderson - How to Impress Girls (or Boys) with HTML5 and AngularJS.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:13:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[553114c0e044d68d39b5cdbc70c39f51]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Verlin_Henderson_-_How_to_Impress_Girls_or_Boys_with_HTML5_and_AngularJS.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="26978399" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Verlin_Henderson_-_How_to_Impress_Girls_or_Boys_with_HTML5_and_AngularJS.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Tom Elrod - Amazon Web Services - going from development to production.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:12:30 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[51ab4977cee8d400957a6fd7297c7a80]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Tom_Elrod_-_Amazon_Web_Services_-_going_from_development_to_production.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="51380541" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Tom_Elrod_-_Amazon_Web_Services_-_going_from_development_to_production.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Toby Ho - Test Driven JavaScript Development That Feels Great.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:10:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0676e6ea9bec180671e6000bde0d1278]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Toby_Ho_-_Test_Driven_JavaScript_Development_That_Feels_Great.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="36609088" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Toby_Ho_-_Test_Driven_JavaScript_Development_That_Feels_Great.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - TJ VanToll - jQuery UI Widgets vs. HTML5.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:08:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[916b4ead20cd1d9989602a2a89938bbd]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_TJ_VanToll_-_jQuery_UI_Widgets_vs._HTML5.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="34278555" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_TJ_VanToll_-_jQuery_UI_Widgets_vs._HTML5.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ted Neward - Why Functional Languages Matter.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:06:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2b356c86bd3e3d11e2ef12874925d183]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Why_Functional_Languages_Matter.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52274452" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Why_Functional_Languages_Matter.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ted Neward - Busy Developers Guide to NoSQL.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:04:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9a88278363cb519d698ab29534aaf4a5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Busy_Developers_Guide_to_NoSQL.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="57970152" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Busy_Developers_Guide_to_NoSQL.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ted Neward - Busy Developerls Intro to NodeJS.mp3</title>
+			<pubDate>Fri, 03 Oct 2014 03:01:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2bd3fc636f702784a12f1184f278c8ae]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Busy_Developerls_Intro_to_NodeJS.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="45110462" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ted_Neward_-_Busy_Developerls_Intro_to_NodeJS.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Sven Peters - Keynote - How To Do Kick-Ass Software Development.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:28:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c946ac5b486ac0c9fd4f3345d14ccefe]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Sven_Peters_-_Keynote_-_How_To_Do_Kick-Ass_Software_Development.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="48334420" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Sven_Peters_-_Keynote_-_How_To_Do_Kick-Ass_Software_Development.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Sven Peters - Git with T for team.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:26:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a864cec4b87990210685a0ee00cd19e7]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Sven_Peters_-_Git_with_T_for_team.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="43070923" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Sven_Peters_-_Git_with_T_for_team.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Summers Pittman - Lets Build a Modern Android Application.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:23:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a2dd2aec0cdbda2416e9789b33e989fc]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Summers_Pittman_-_Lets_Build_a_Modern_Android_Application.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="73198174" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Summers_Pittman_-_Lets_Build_a_Modern_Android_Application.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stuart Sierra - Intro to Clojure.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:20:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[231846b1912b11968789825415b76735]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stuart_Sierra_-_Intro_to_Clojure.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="53415184" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stuart_Sierra_-_Intro_to_Clojure.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stuart Sierra - Clojure in the Large.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:18:01 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[877d3dc9327d3155c3476d09039ce02e]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stuart_Sierra_-_Clojure_in_the_Large.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="47447307" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stuart_Sierra_-_Clojure_in_the_Large.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Steven Pousty - Deploy and develop your application in a PaaS - 0 to awesome in 3 minutes.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:15:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ea9d345d7841e7c9d327f76c511dad1b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Steven_Pousty_-_Deploy_and_develop_your_application_in_a_PaaS_-_0_to_awesome_in_3_minutes.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50813665" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Steven_Pousty_-_Deploy_and_develop_your_application_in_a_PaaS_-_0_to_awesome_in_3_minutes.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stephen Wilson - Thinking about DevOps Better plan it based on application performance..mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:13:28 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[761549d29954811a750472d3064ffbe6]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Wilson_-_Thinking_about_DevOps_Better_plan_it_based_on_application_performance..mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49954581" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Wilson_-_Thinking_about_DevOps_Better_plan_it_based_on_application_performance..mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stephen Thomas - Unit Testing JavaScript Applications.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:11:06 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c6b37d7458e12b03a6a7b87f8ae1e412]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Thomas_-_Unit_Testing_JavaScript_Applications.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="35574764" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Thomas_-_Unit_Testing_JavaScript_Applications.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stephen Feather - Cross platform Native Development with Titanium.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:09:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2fa6ca4238e4ecee65369200ff198709]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Feather_-_Cross_platform_Native_Development_with_Titanium.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="46837764" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Feather_-_Cross_platform_Native_Development_with_Titanium.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stephen Chin - Retro Gaming with Lambdas.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:07:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[24daed089765fecb57946151aa5053a2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Chin_-_Retro_Gaming_with_Lambdas.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="45426721" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Chin_-_Retro_Gaming_with_Lambdas.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Stephen Chin - Java SE 8 for Tablets, Pis and Legos.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:05:09 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6e26ee2a8d662aaf468bd4d244723770]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Chin_-_Java_SE_8_for_Tablets_Pis_and_Legos.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="41975275" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Stephen_Chin_-_Java_SE_8_for_Tablets_Pis_and_Legos.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Roy Russo - Introduction to ElasticSearch Clusters.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:03:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[14644fdc56826dbfb0c08c5da07d38f5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Roy_Russo_-_Introduction_to_ElasticSearch_Clusters.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50394471" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Roy_Russo_-_Introduction_to_ElasticSearch_Clusters.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Robbie Strickland - Cassandra 2.0 - Big Data Grows Up.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 19:00:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d4badd6f727962166edd7f581f1bed6a]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Robbie_Strickland_-_Cassandra_2.0_-_Big_Data_Grows_Up.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="51260273" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Robbie_Strickland_-_Cassandra_2.0_-_Big_Data_Grows_Up.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Raju Gandhi - AngularJS Bootcamp I.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:58:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a5aaa0a30767c7d869e7d556d86adad5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Raju_Gandhi_-_AngularJS_Bootcamp_I.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="85917048" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Raju_Gandhi_-_AngularJS_Bootcamp_I.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Pratik Patel - Mobile Frameworks Smackdown.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:54:34 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[df35e7599fd8c1be7103680fd42daee4]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Pratik_Patel_-_Mobile_Frameworks_Smackdown.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="46782722" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Pratik_Patel_-_Mobile_Frameworks_Smackdown.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Peter Bell - Redis - the swiss army knife of NoSQL.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:52:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a99d32c49c719369e080e9f07a784495]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_Redis_-_the_swiss_army_knife_of_NoSQL.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="48663536" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_Redis_-_the_swiss_army_knife_of_NoSQL.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Peter Bell - Practical GitHub Collaboration Workflows.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:50:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cbc2bc875be9eba34261bd306b214f61]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_Practical_GitHub_Collaboration_Workflows.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="55276936" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_Practical_GitHub_Collaboration_Workflows.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Peter Bell - How to Undo Anything Effortlessly With Git.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:47:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[408a02857bce5583908ffb974c3d15b1]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_How_to_Undo_Anything_Effortlessly_With_Git.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49093219" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Peter_Bell_-_How_to_Undo_Anything_Effortlessly_With_Git.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ovidiu Dimulescu - Threads, Needles, Stacks, Heaps.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:45:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[66044c51505ac10e66d88658513f2909]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ovidiu_Dimulescu_-_Threads_Needles_Stacks_Heaps.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="57007439" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ovidiu_Dimulescu_-_Threads_Needles_Stacks_Heaps.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Neal Ford - Build Your Own Technology Radar.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:42:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c3ae732017eb247f545ae0f05747f5fd]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Neal_Ford_-_Build_Your_Own_Technology_Radar.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="55524499" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Neal_Ford_-_Build_Your_Own_Technology_Radar.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Mike Cantelon - Creating Unhosted Applications with Node.js.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:40:08 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d7a0db08ba912846a9e55a2283e41a30]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Mike_Cantelon_-_Creating_Unhosted_Applications_with_Node.js.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="25772620" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Mike_Cantelon_-_Creating_Unhosted_Applications_with_Node.js.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Michael Minella - Learning the ways of Spring Batch.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:38:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fc8fcef81705a9e2d3b4eb544856916b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Michael_Minella_-_Learning_the_ways_of_Spring_Batch.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="55066503" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Michael_Minella_-_Learning_the_ways_of_Spring_Batch.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Matt Ammerman - Essential Hybrid Cloud - The Future of Application Development.mp3</title>
+			<pubDate>Thu, 02 Oct 2014 18:36:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[eaa8863d7eae0740acccd3399f48fce1]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Matt_Ammerman_-_Essential_Hybrid_Cloud_-_The_Future_of_Application_Development.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50506142" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Matt_Ammerman_-_Essential_Hybrid_Cloud_-_The_Future_of_Application_Development.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Mark Pollack - Introducing Spring XD.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 21:00:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3ca05bf0baf4b9183baac4188031ba9b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Mark_Pollack_-_Introducing_Spring_XD.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="54226988" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Mark_Pollack_-_Introducing_Spring_XD.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Les Hazlewood - Designing a Beautiful REST+JSON API.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:57:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[94b579a3ea4aa5a529b5b814b54160b2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Les_Hazlewood_-_Designing_a_Beautiful_RESTJSON_API.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49679995" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Les_Hazlewood_-_Designing_a_Beautiful_RESTJSON_API.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Laura Moore - Building it better Automated tools for software development old and new.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:55:13 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d035b7c50e8d04331773e387c44fd741]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Laura_Moore_-_Building_it_better_Automated_tools_for_software_development_old_and_new.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="31501748" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Laura_Moore_-_Building_it_better_Automated_tools_for_software_development_old_and_new.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Kyle Simpson - New Linting Rules.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:53:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[89f1534b453a51b6f898f223f2c21eeb]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kyle_Simpson_-_New_Linting_Rules.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49705774" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kyle_Simpson_-_New_Linting_Rules.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Kyle Simpson - #CSS {Yawn - Yay}.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:51:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d14ebf1cc9460cd9c33d8e5252de7636]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kyle_Simpson_-_CSS_Yawn_-_Yay.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44782686" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kyle_Simpson_-_CSS_Yawn_-_Yay.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Kevin Whinnery - Twilio hardware hack with Raspberry Pi &amp; Chromecast.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:49:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[81d5f1b1fcc90e3080d249a4205a89a2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kevin_Whinnery_-_Twilio_hardware_hack_with_Raspberry_Pi__Chromecast.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="37335811" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Kevin_Whinnery_-_Twilio_hardware_hack_with_Raspberry_Pi__Chromecast.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ken Sipe - Spock.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:47:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[97f7964f7f04bdbbf013830908388950]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ken_Sipe_-_Spock.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="53564588" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ken_Sipe_-_Spock.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Ken Sipe - Cloud Molecules.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:44:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5d812f4d15aae53b6867223f2ead78bd]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ken_Sipe_-_Cloud_Molecules.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49804134" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ken_Sipe_-_Cloud_Molecules.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Justin Sheets - Introduction to Corona.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:42:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6aec481d7b2c3a1c3b581c57a25a6bc1]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Justin_Sheets_-_Introduction_to_Corona.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="46672249" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Justin_Sheets_-_Introduction_to_Corona.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Josh Suereth - Coding in Style - How to wield Scala in the trenches.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:40:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2697bef49755115cbe097adeb39d6354]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Suereth_-_Coding_in_Style_-_How_to_wield_Scala_in_the_trenches.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50041980" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Suereth_-_Coding_in_Style_-_How_to_wield_Scala_in_the_trenches.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Josh Long - Have You Seen Spring Lately.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:38:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2e3a704574fd9936712d493b82450b5d]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Long_-_Have_You_Seen_Spring_Lately.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52775718" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Long_-_Have_You_Seen_Spring_Lately.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Josh Long - Building REST Services with Spring.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:35:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f1c7fc84332ebbbbf5892a11c4b30d5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Long_-_Building_REST_Services_with_Spring.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="55518519" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Josh_Long_-_Building_REST_Services_with_Spring.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Joonas Lehtinen - What is new in Vaadin 7.2.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:32:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fc4727218bade9d44ab822fe9eeb6788]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joonas_Lehtinen_-_What_is_new_in_Vaadin_7.2.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49605975" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joonas_Lehtinen_-_What_is_new_in_Vaadin_7.2.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Joonas Lehtinen - Introduction to Vaadin.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:30:31 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5d36291886989c8854eebef4f84dc631]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joonas_Lehtinen_-_Introduction_to_Vaadin.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52645523" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joonas_Lehtinen_-_Introduction_to_Vaadin.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - John Napier - Refactoring towards functional Java.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:27:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[587a84477c6aab5b7160ef1ccb95024d]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_John_Napier_-_Refactoring_towards_functional_Java.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52380251" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_John_Napier_-_Refactoring_towards_functional_Java.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Joe Moore - Ive Pair Programmed for 27,000 Hours. Ask me Anything!.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:25:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d338a19e92a49dc85a2e3c2a0257283a]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joe_Moore_-_Ive_Pair_Programmed_for_27000_Hours._Ask_me_Anything.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="58729903" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Joe_Moore_-_Ive_Pair_Programmed_for_27000_Hours._Ask_me_Anything.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jevgeni Kabanov - Data-Driven Software Engineering.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:22:44 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[775b8a6947d6c7b10c234a94483e3f49]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jevgeni_Kabanov_-_Data-Driven_Software_Engineering.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44685120" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jevgeni_Kabanov_-_Data-Driven_Software_Engineering.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jason Chambers - Micro services based architectures - a path to Living Software.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:20:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[178fb6a91075cfa553e83260b8a21ff5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jason_Chambers_-_Micro_services_based_architectures_-_a_path_to_Living_Software.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="56046625" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jason_Chambers_-_Micro_services_based_architectures_-_a_path_to_Living_Software.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jared Richardson - Scaled Agile Framework - A Blueprint for Enterprise Scale Agility.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:18:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1b463b9bbf36866429143533c88f3ed5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_Scaled_Agile_Framework_-_A_Blueprint_for_Enterprise_Scale_Agility.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="33959984" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_Scaled_Agile_Framework_-_A_Blueprint_for_Enterprise_Scale_Agility.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jared Richardson - Continuous Test Automation.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:16:18 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5c9cef52262673949e85b4163c324f30]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_Continuous_Test_Automation.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="41622879" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_Continuous_Test_Automation.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jared Richardson - An Introduction to Agile.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:14:19 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3483e7aba0196e5e8e2a423af6e230c3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_An_Introduction_to_Agile.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="47524354" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jared_Richardson_-_An_Introduction_to_Agile.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jamie Turner - Keynote - How to Use Secrets of Consumer Behavior to.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:12:05 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6593db0b81fcc5ab170cefda209be8d2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jamie_Turner_-_Keynote_-_How_to_Use_Secrets_of_Consumer_Behavior_to.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="39303293" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jamie_Turner_-_Keynote_-_How_to_Use_Secrets_of_Consumer_Behavior_to.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - James Chittenden - How Google Does Big Data.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:10:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3b713676ef4da21701ae6497e2ba13b2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_James_Chittenden_-_How_Google_Does_Big_Data.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="34111286" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_James_Chittenden_-_How_Google_Does_Big_Data.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jack Singleton - Scala - The Good Parts.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:08:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3075ebdf101be809ae9206fa05cb6190]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jack_Singleton_-_Scala_-_The_Good_Parts.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52099618" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jack_Singleton_-_Scala_-_The_Good_Parts.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Jack Coleman - Itls a Cloud Party - BYOD (Bring Your Own Data).mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:06:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[13720ab0a97ec2066f16b5f854b37e33]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jack_Coleman_-_Itls_a_Cloud_Party_-_BYOD_Bring_Your_Own_Data.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="35331318" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Jack_Coleman_-_Itls_a_Cloud_Party_-_BYOD_Bring_Your_Own_Data.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Grant Shipley - Full Stack JavaScript.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:04:14 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fa4b408e05613ed59a56c74023c69b60]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Grant_Shipley_-_Full_Stack_JavaScript.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50021720" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Grant_Shipley_-_Full_Stack_JavaScript.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Grant Davies - Introduction to Xamarin cross platform development.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:01:52 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[67720539f9d8f3ae7b6248c595e33a0d]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Grant_Davies_-_Introduction_to_Xamarin_cross_platform_development.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="35279235" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Grant_Davies_-_Introduction_to_Xamarin_cross_platform_development.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Glenn Renfro - Spring Integration Done Boot-ifully.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 20:00:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ad7a9fda2ca3742004d0a95035d07f83]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Glenn_Renfro_-_Spring_Integration_Done_Boot-ifully.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="39691848" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Glenn_Renfro_-_Spring_Integration_Done_Boot-ifully.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Glen Peterson - Refactoring in Java, Scala, and Clojure.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 19:58:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ab91844adf6726df6aff7151bc965630]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Glen_Peterson_-_Refactoring_in_Java_Scala_and_Clojure.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="51425777" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Glen_Peterson_-_Refactoring_in_Java_Scala_and_Clojure.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Gail Zhou - Big Data Technology, Strategy, and Applications.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 19:55:46 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[804182b4df374bfcf3531712177cc55f]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Gail_Zhou_-_Big_Data_Technology_Strategy_and_Applications.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44068253" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Gail_Zhou_-_Big_Data_Technology_Strategy_and_Applications.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Edward Burns - JavaEE 7 In Practice - Blueprints Reborn.mp3</title>
+			<pubDate>Wed, 03 Sep 2014 19:53:40 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0006332e1e34bca9696071c1f390a533]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Edward_Burns_-_JavaEE_7_In_Practice_-_Blueprints_Reborn.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="46558256" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Edward_Burns_-_JavaEE_7_In_Practice_-_Blueprints_Reborn.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Edward Burns - A New Approach to the UI for Distributed Applications.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:55:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0300d0c6db80c75189ff7df08a8d8ea8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Edward_Burns_-_A_New_Approach_to_the_UI_for_Distributed_Applications.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49990088" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Edward_Burns_-_A_New_Approach_to_the_UI_for_Distributed_Applications.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Dustin Whittle - The DevOps Pay Raise - Quantifying Your Value to Move Up the Ladder.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:53:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d551495f6aee047a8dc5ee97cab5b608]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Dustin_Whittle_-_The_DevOps_Pay_Raise_-_Quantifying_Your_Value_to_Move_Up_the_Ladder.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44078057" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Dustin_Whittle_-_The_DevOps_Pay_Raise_-_Quantifying_Your_Value_to_Move_Up_the_Ladder.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Danilo Sato - Refactoring Strategies - Beyond the Basics.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:51:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7c6ea3e233b0c37791bd92a98a0e384b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Danilo_Sato_-_Refactoring_Strategies_-_Beyond_the_Basics.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="63272100" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Danilo_Sato_-_Refactoring_Strategies_-_Beyond_the_Basics.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Craig Walls - Whats new in Spring.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:48:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7aaaa5f80b509629d75454f8989a7334]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Craig_Walls_-_Whats_new_in_Spring.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50158990" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Craig_Walls_-_Whats_new_in_Spring.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Craig Walls - Spring Boot - More Spring, Less Configuration.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:46:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[12794eda73783d545a8cdb8bfff75444]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Craig_Walls_-_Spring_Boot_-_More_Spring_Less_Configuration.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="53323716" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Craig_Walls_-_Spring_Boot_-_More_Spring_Less_Configuration.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Cory Foy - From Scrum to Kanban.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:44:04 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[196ee4cc03a843698b778cf5078ec266]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Cory_Foy_-_From_Scrum_to_Kanban.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="54243017" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Cory_Foy_-_From_Scrum_to_Kanban.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Devnexus 2014 - Chris Risner - Building Connected Android Apps with Azure.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:41:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2398c4965cf753d6e01157de1bbb2dcd]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Risner_-_Building_Connected_Android_Apps_with_Azure.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44684524" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Risner_-_Building_Connected_Android_Apps_with_Azure.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #90 - Chris Richardson - NodeJS - the good parts A skepticls view.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:39:43 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2fa331b0449df3f1a3268d3d0d8a5aa3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Richardson_-_NodeJS_-_the_good_parts_A_skepticls_view.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="49290726" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Richardson_-_NodeJS_-_the_good_parts_A_skepticls_view.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #89 - Chris Richardson - Futures and Rx Observables - powerful abstractions for consuming web services asynchronously.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:37:32 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[66f6ff6816b47c1101323b8e6c6f14d6]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Richardson_-_Futures_and_Rx_Observables_-_powerful_abstractions_for_consuming_web_services_asynchronously.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="52357851" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Chris_Richardson_-_Futures_and_Rx_Observables_-_powerful_abstractions_for_consuming_web_services_asynchronously.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #88 - Burr Sutter - Introducing Vert.x 2.0 - Taking Polyglot Application Development to the Next Level.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:35:10 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[5859e6cac9851dc87b610bdb16116b27]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Burr_Sutter_-_Introducing_Vert.x_2.0_-_Taking_Polyglot_Application_Development_to_the_Next_Level.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="51387729" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Burr_Sutter_-_Introducing_Vert.x_2.0_-_Taking_Polyglot_Application_Development_to_the_Next_Level.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #87 - Burk Hufnagel - UI, UX, Users, and You - A Developers Guide to User Interface and User Experience Design for Your Users.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:32:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c4f8effec52934d227ced42a451e4be8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Burk_Hufnagel_-_UI_UX_Users_and_You_-_A_Developers_Guide_to_User_Interface_and_User_Experience_Design_for_Your_Users.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="38130262" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Burk_Hufnagel_-_UI_UX_Users_and_You_-_A_Developers_Guide_to_User_Interface_and_User_Experience_Design_for_Your_Users.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #86 - Bryan Robinson - Guerrilla Usability, or How I Learned to Stop Worrying and Love UX.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:31:12 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[931cf52baccf6296019f20c94ce136ad]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Bryan_Robinson_-_Guerrilla_Usability_or_How_I_Learned_to_Stop_Worrying_and_Love_UX.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="34441722" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Bryan_Robinson_-_Guerrilla_Usability_or_How_I_Learned_to_Stop_Worrying_and_Love_UX.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #85 - Brian Rinaldi - Getting Started with Responsive Web Design.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:29:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[61ab9603d44683000563507527722471]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Rinaldi_-_Getting_Started_with_Responsive_Web_Design.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="71992754" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Rinaldi_-_Getting_Started_with_Responsive_Web_Design.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #84 - Brian Rinaldi - Approaches to DOM Traversal.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:26:26 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[40111f0185ea1bae0da27d2e09a772ea]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Rinaldi_-_Approaches_to_DOM_Traversal.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="34559694" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Rinaldi_-_Approaches_to_DOM_Traversal.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #83 - Brian Fox - Open Source Components Fuel Agile Development.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:24:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6c1b1f1d151c005f8d7492237302ee1c]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Fox_-_Open_Source_Components_Fuel_Agile_Development.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="42737849" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brian_Fox_-_Open_Source_Components_Fuel_Agile_Development.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #82 - Brett Meyer - Not Just ORM - Powerful Hibernate ORM Features and Capabilities.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:23:03 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[dd85ca767614b5923e79b4e83f65bee8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brett_Meyer_-_Not_Just_ORM_-_Powerful_Hibernate_ORM_Features_and_Capabilities.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44629705" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brett_Meyer_-_Not_Just_ORM_-_Powerful_Hibernate_ORM_Features_and_Capabilities.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #81 - Brett Meyer - Boost Your Data - Hibernate ORM Tips, Tricks, and Performance Techniques.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:20:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[67a323008817d5db8b3a53bbe66614f8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brett_Meyer_-_Boost_Your_Data_-_Hibernate_ORM_Tips_Tricks_and_Performance_Techniques.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="44330660" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Brett_Meyer_-_Boost_Your_Data_-_Hibernate_ORM_Tips_Tricks_and_Performance_Techniques.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #80 - Baruch Sadogursky - How we took our server-side application to the Cloud and liked what we got.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:18:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[b277bc11e059e470781a2c68a0f6676e]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Baruch_Sadogursky_-_How_we_took_our_server-side_application_to_the_Cloud_and_liked_what_we_got.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="43232084" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Baruch_Sadogursky_-_How_we_took_our_server-side_application_to_the_Cloud_and_liked_what_we_got.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #79 - Baruch Sadogursky - Building a Massively Scalable Cloud Service from the Ground Up.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:17:02 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6185f65ffdd216877e167f70a7230bd5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Baruch_Sadogursky_-_Building_a_Massively_Scalable_Cloud_Service_from_the_Ground_Up.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="38958211" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Baruch_Sadogursky_-_Building_a_Massively_Scalable_Cloud_Service_from_the_Ground_Up.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #78 - Arthur Hicken - Service Virtualization - Expanding the Breadth and Scope of Security Testing.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:15:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1a498314aa372e7e1f9b17e62f0628b6]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Arthur_Hicken_-_Service_Virtualization_-_Expanding_the_Breadth_and_Scope_of_Security_Testing.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="28831288" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Arthur_Hicken_-_Service_Virtualization_-_Expanding_the_Breadth_and_Scope_of_Security_Testing.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #77 - Ariya Hidayat - Tweaking CSS3 for Hardware Acceleration.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:14:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[cdd788e1d146891bf82b4d946d05eb59]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ariya_Hidayat_-_Tweaking_CSS3_for_Hardware_Acceleration.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="24449133" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ariya_Hidayat_-_Tweaking_CSS3_for_Hardware_Acceleration.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #76 - Ariya Hidayat - JavaScript API Design Principles.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:12:55 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7f5e78f296e6d9155112cfa7685cc044]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ariya_Hidayat_-_JavaScript_API_Design_Principles.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="28570659" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ariya_Hidayat_-_JavaScript_API_Design_Principles.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #75 - Ann Robson - Make It Great - Refactoring Thatls Smart and Satisfying.mp3</title>
+			<pubDate>Sat, 16 Aug 2014 12:11:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[13b555ff9a806ce949df10be8a77ae34]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ann_Robson_-_Make_It_Great_-_Refactoring_Thatls_Smart_and_Satisfying.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="30399294" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Ann_Robson_-_Make_It_Great_-_Refactoring_Thatls_Smart_and_Satisfying.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #74 - Andrew Zuercher - Building Titanium Applications with Alloy.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:27:51 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2ec93348eddbae7c3c363af45818677e]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Zuercher_-_Building_Titanium_Applications_with_Alloy.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="48622537" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Zuercher_-_Building_Titanium_Applications_with_Alloy.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #73 - Andrew Trice - Getting Started with PhoneGap and Cross-Platform Mobile Development.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:25:38 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[e73b68e2ff38e365656ee64f4968b2dc]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Trice_-_Getting_Started_with_PhoneGap_and_Cross-Platform_Mobile_Development.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="45108807" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Trice_-_Getting_Started_with_PhoneGap_and_Cross-Platform_Mobile_Development.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #72 - Andrew Trice - Designing and Architecting PhoneGap and Mobile Web Apps.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:23:35 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8f6217ec3e2a4b363fcbfa058a2505c3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Trice_-_Designing_and_Architecting_PhoneGap_and_Mobile_Web_Apps.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50600222" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Andrew_Trice_-_Designing_and_Architecting_PhoneGap_and_Mobile_Web_Apps.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #71 - Aaron Bedra - Web Security Audits - A Comprehensive Guide.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:21:17 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d3cfcbff872620e71e1d4e29229e5425]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Aaron_Bedra_-_Web_Security_Audits_-_A_Comprehensive_Guide.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50819169" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Aaron_Bedra_-_Web_Security_Audits_-_A_Comprehensive_Guide.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #70 - Aaron Bedra - Repsheet - A Behavior Based Approach to Web Application Security.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:18:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[797d84d51292aaf66cc74c64de318b08]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Aaron_Bedra_-_Repsheet_-_A_Behavior_Based_Approach_to_Web_Application_Security.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="50900134" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2014_-_Aaron_Bedra_-_Repsheet_-_A_Behavior_Based_Approach_to_Web_Application_Security.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #69 - Wesley Hales - HTML5 and JavaScript Web Apps.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:16:39 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[206aca29b4b1c0abcfe948e7080b6b8e]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Wesley_Hales_-_HTML5_and_JavaScript_Web_Apps.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="85073789" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Wesley_Hales_-_HTML5_and_JavaScript_Web_Apps.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #68 - Raymond Camden - Using IndexedDB for Client-Side Storage in HTML5 Applications.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:12:49 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bb44b1953d9dfee9a72014c4d744533c]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Raymond_Camden_-_Using_IndexedDB_for_Client-Side_Storage_in_HTML5_Applications.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="87708979" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Raymond_Camden_-_Using_IndexedDB_for_Client-Side_Storage_in_HTML5_Applications.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #67 - Ram Singaram - Effective ways to measure and manage technical debt.mp3</title>
+			<pubDate>Fri, 15 Aug 2014 21:08:50 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8f63c45e0a8a0c5b8ac135b09e31e5ea]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Ram_Singaram_-_Effective_ways_to_measure_and_manage_technical_debt.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="90460951" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Ram_Singaram_-_Effective_ways_to_measure_and_manage_technical_debt.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #66 - Summers Pittman - Consuming Rest Services with Android.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:28:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c6d9ef29f32552d910fc8a97453b0fb0]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Summers_Pittman_-_Consuming_Rest_Services_with_Android.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="81652575" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Summers_Pittman_-_Consuming_Rest_Services_with_Android.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #65 - Stuart Halloway - Simulation Testing.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:24:37 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[77aa62b47c857e808e9553c8223c4602]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Stuart_Halloway_-_Simulation_Testing.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="92700957" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Stuart_Halloway_-_Simulation_Testing.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #64 - Wesley Hales - The Browser as a Platform.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:20:23 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[25bbfe2b070f3b302cc14b551d707baa]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Wesley_Hales_-_The_Browser_as_a_Platform.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="93769547" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Wesley_Hales_-_The_Browser_as_a_Platform.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #63 - Yoel Spotts - Testing Large-Scale Distributed Applications in the Cloud.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:16:07 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f8f51ea64d993596680aec996464e92b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Yoel_Spotts_-_Testing_Large-Scale_Distributed_Applications_in_the_Cloud.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="95024933" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Yoel_Spotts_-_Testing_Large-Scale_Distributed_Applications_in_the_Cloud.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #62 - Reza Rahman - Using NoSQL with JPA, EclipseLink and Java EE.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:11:45 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d31a45af68a84c3fbc5455eaa5b72400]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Reza_Rahman_-_Using_NoSQL_with_JPA_EclipseLink_and_Java_EE.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="96493311" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Reza_Rahman_-_Using_NoSQL_with_JPA_EclipseLink_and_Java_EE.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>DevNexus Podcast #61 - Venkat Subramaniam - CoffeeScript for recovering JavaScript Programmers.mp3</title>
+			<pubDate>Fri, 01 Aug 2014 17:07:21 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4709ca765c7053294e9394bdcd36d5cd]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Venkat_Subramaniam_-_CoffeeScript_for_recovering_JavaScript_Programmers.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/b/8/c8b86f21e92a48be/devnexus_logo_podcast.png" />
+			<description><![CDATA[]]></description>
+			<enclosure length="97195081" type="audio/mpeg" url="http://traffic.libsyn.com/devnexus/Devnexus_2013_-_Venkat_Subramaniam_-_CoffeeScript_for_recovering_JavaScript_Programmers.mp3" />
+			<itunes:duration>00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>

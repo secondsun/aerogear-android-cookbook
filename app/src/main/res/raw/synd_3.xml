@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="http://www.npr.org/rss/" xmlns:nprml="http://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>StoryCorps</title>
+    <link>http://www.npr.org/storycorps</link>
+    <description><![CDATA[StoryCorps travels the country collecting the stories of everyday people, who get to take the microphone and interview each other about their lives. Each week, the StoryCorps podcast shares these unscripted conversations, revealing the wisdom, courage, and poetry in the words of people you might not notice walking down the street. Learn more, including how to record your own interview, at storycorps.org.]]></description>
+    <copyright>Sound Portraits Productions</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en</language>
+    <itunes:summary><![CDATA[StoryCorps travels the country collecting the stories of everyday people, who get to take the microphone and interview each other about their lives. Each week, the StoryCorps podcast shares these unscripted conversations, revealing the wisdom, courage, and poetry in the words of people you might not notice walking down the street. Learn more, including how to record your own interview, at storycorps.org.]]></itunes:summary>
+    <itunes:subtitle><![CDATA[StoryCorps travels the country collecting the stories of everyday people, who get to take the microphone and interview each other about their lives. Each week, the StoryCorps podcast shares these unscripted conversations, revealing the wisdom, courage, and poetry in the words of people you might not notice walking down the street. Learn more, including how to record your own interview, at storycorps.org.]]></itunes:subtitle>
+    <itunes:author>NPR</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="http://media.npr.org/assets/img/2015/03/18/storycorps-1-_sq-a968ca31eb4d104a77e0346ad4d3b7bdb8bc4823.jpg?s=1400"/>
+    <image>
+      <url>http://media.npr.org/assets/img/2015/03/18/storycorps-1-_sq-a968ca31eb4d104a77e0346ad4d3b7bdb8bc4823.jpg?s=200</url>
+      <title>StoryCorps</title>
+      <link>http://www.npr.org/storycorps</link>
+    </image>
+    <lastBuildDate>Tue, 07 Apr 2015 17:57:00 -0400</lastBuildDate>
+    <item>
+      <title>StoryCorps 422: His Name Is Carl</title>
+      <description><![CDATA[Rebecca Greenberg recently came to StoryCorps with her mother, Laura, to hear about the characters Laura grew up with in Queens during the '50s. She also heard Laura's version of her parents' courtship. It only seemed fair to invite the family back so Rebecca's father, Carl, could tell his side of the story.]]></description>
+      <pubDate>Tue, 07 Apr 2015 17:57:00 -0400</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>95652c01-726d-483b-b42d-4a38ec8d801a</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Rebecca Greenberg recently came to StoryCorps with her mother, Laura, to hear about the characters Laura grew up with in Queens during the '50s. She also heard Laura's version of her parents' courtship. It only seemed fair to invite the family back so Rebecca's father, Carl, could tell his side of the story.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Rebecca Greenberg recently came to StoryCorps with her mother, Laura, to hear about the characters Laura grew up with in Queens during the '50s. She also heard Laura's version of her parents' courtship. It only seemed fair to invite the family back so Rebecca's father, Carl, could tell his side of the story.]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/04/07/storycorps_podcast_422_hisnameiscarl_image_wide-ed1929690ec6b8b9681fa1fab4c044d6fc3a950a.jpg?s=1400"/>
+      <itunes:duration>483</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/blog/2015/04/20150407_blog_storycorps.mp3?orgId=1&amp;e=398137782&amp;d=483&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 421: Beautiful Symmetry</title>
+      <description><![CDATA[Jeff Wilson sits down with his former high-school classmate Tammie Baird to talk about accidentally hitting her with his car in 1984. Also in this episode: Remembering Susan Silverstone Darer. Music in this episode: "Fives," "Filaments," and "Sonstiges" by Podington Bear, "Agdam" by Hauschka, and "Send Off" by Explosions in the Sky & David Wingo.]]></description>
+      <pubDate>Mon, 30 Mar 2015 18:27:00 -0400</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>52499154-64bd-4353-9916-6009fff1c4ce</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Jeff Wilson sits down with his former high-school classmate Tammie Baird to talk about accidentally hitting her with his car in 1984. Also in this episode: Remembering Susan Silverstone Darer. Music in this episode: "Fives," "Filaments," and "Sonstiges" by Podington Bear, "Agdam" by Hauschka, and "Send Off" by Explosions in the Sky & David Wingo.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Jeff Wilson sits down with his former high-school classmate Tammie Baird to talk about accidentally hitting her with his car in 1984. Also in this episode: Remembering Susan Silverstone Darer. Music in this episode: "Fives," "Filaments," and "Sonstiges" by Podington Bear, "Agdam" by Hauschka, and "Send Off" by Explosions in the Sky & David Wingo.]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/03/30/storycorps_podcast_421_image_wide-9c30e2a7dd2537b92c86d45ff8a1aedfaed01791.jpg?s=1400"/>
+      <itunes:duration>536</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/blog/2015/03/20150330_blog_storycorps.mp3?orgId=1&amp;e=396419232&amp;d=536&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 420: TED-time Stories</title>
+      <description><![CDATA[StoryCorps founder Dave Isay is this year's TED Prize winner. Last week, he gave a TED talk in Vancouver. In this episode you'll hear part of that talk, as well as the stories he shared with the audience.]]></description>
+      <pubDate>Mon, 23 Mar 2015 16:42:00 -0400</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>72ad346d-7ffd-4336-9e3b-64c9a969dfc2</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[StoryCorps founder Dave Isay is this year's TED Prize winner. Last week, he gave a TED talk in Vancouver. In this episode you'll hear part of that talk, as well as the stories he shared with the audience.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[StoryCorps founder Dave Isay is this year's TED Prize winner. Last week, he gave a TED talk in Vancouver. In this episode you'll hear part of that talk, as well as the stories he shared with the audience.]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/03/23/storycorps420_wide-22ed46935d0f7f7b12525ed4458f5bfd1b511efc.jpg?s=1400"/>
+      <itunes:duration>1149</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/specials/2015/03/20150323_specials_storycorps.mp3?orgId=1&amp;e=394905393&amp;d=1149&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 419: I Shall Be Released</title>
+      <description><![CDATA[Early in the morning of March 18, 1990, two thieves pulled off the biggest art heist in history at the Isabella Stuart Gardner museum in Boston. In this episode, we hear from the guard who mistakenly let them in. Music in this episode: "Logjam" and "Has Pluck" by Podington Bear, "I Shall Be Released" by Bob Dylan, and "Bees" by Caribou.]]></description>
+      <pubDate>Mon, 16 Mar 2015 17:11:00 -0400</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>f952fd6f-e422-4c86-a526-1a2cc1a43f3f</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Early in the morning of March 18, 1990, two thieves pulled off the biggest art heist in history at the Isabella Stuart Gardner museum in Boston. In this episode, we hear from the guard who mistakenly let them in. Music in this episode: "Logjam" and "Has Pluck" by Podington Bear, "I Shall Be Released" by Bob Dylan, and "Bees" by Caribou.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Early in the morning of March 18, 1990, two thieves pulled off the biggest art heist in history at the Isabella Stuart Gardner museum in Boston. In this episode, we hear from the guard who mistakenly let them in. Music in this episode: "Logjam" and "Has Pluck" by Podington Bear, "I Shall Be Released" by Bob Dylan, and "Bees" by Caribou.]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/03/16/storycorps419_wide-6c1d79312083b8ac0e0ea4f071c4f256ab85a29b.jpg?s=1400"/>
+      <itunes:duration>590</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/blog/2015/03/20150316_blog_storycorps.mp3?orgId=1&amp;e=393407573&amp;d=590&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 418: Guardians of the Golden Gate</title>
+      <description><![CDATA[Two stories from San Francisco's iconic Golden Gate Bridge. First, we'll hear from two ironworkers who have spent more than 25 years on the bridge. Then, a young man who almost took his own life there speaks with the man who talked him down. Music in this episode: "The Gold Lining" by Broke For Free, "We're from Near and Far" by Ending Satellites, and "Fljótavík" by Sigur Rós.]]></description>
+      <pubDate>Tue, 10 Mar 2015 12:14:00 -0400</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>e529ac2d-ce0c-4fa7-a4b6-9d1ef7a17796</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Two stories from San Francisco's iconic Golden Gate Bridge. First, we'll hear from two ironworkers who have spent more than 25 years on the bridge. Then, a young man who almost took his own life there speaks with the man who talked him down. Music in this episode: "The Gold Lining" by Broke For Free, "We're from Near and Far" by Ending Satellites, and "Fljótavík" by Sigur Rós.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Two stories from San Francisco's iconic Golden Gate Bridge. First, we'll hear from two ironworkers who have spent more than 25 years on the bridge. Then, a young man who almost took his own life there speaks with the man who talked him down. Music in this episode: "The Gold Lining" by Broke For Free, "We're from Near and Far" by Ending Satellites, and "Fljótavík" by Sigur Rós.]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/03/10/storycorps418_wide-24763bed619bd34d55969b988c747d5568affc78.jpg?s=1400"/>
+      <itunes:duration>465</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/specials/2015/03/20150310_specials_berthia.mp3?orgId=1&amp;e=392092707&amp;d=465&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 417: Remembering Wil Smith</title>
+      <description><![CDATA[In this special episode, we're remembering StoryCorps participant Wil Smith, who recorded two interviews with his daughter, Olivia, and talked about being a single dad while attending college. Wil died last week after a long battle with cancer. Music in this episode: "Flax" and "Naruto and the End of the Broken Ear" by Fredrik from the album <em>Flora.</em>]]></description>
+      <pubDate>Fri, 06 Mar 2015 16:30:00 -0500</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>ac1f8a53-0689-40b6-a693-62451682bdfa</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In this special episode, we're remembering StoryCorps participant Wil Smith, who recorded two interviews with his daughter, Olivia, and talked about being a single dad while attending college. Wil died last week after a long battle with cancer. Music in this episode: "Flax" and "Naruto and the End of the Broken Ear" by Fredrik from the album <em>Flora.</em>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In this special episode, we're remembering StoryCorps participant Wil Smith, who recorded two interviews with his daughter, Olivia, and talked about being a single dad while attending college. Wil died last week after a long battle with cancer. Music in this episode: "Flax" and "Naruto and the End of the Broken Ear" by Fredrik from the album <em>Flora.</em>]]></itunes:subtitle>
+      <itunes:image href="http://media.npr.org/assets/img/2015/03/06/storycorps417_wide-5d6147b83a106a248490579ac070a51589fec3d1.jpg?s=1400"/>
+      <itunes:duration>361</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-mp3/npr/specials/2015/03/20150306_specials_storycorpswsmith.mp3?orgId=1&amp;e=391262175&amp;d=361&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 416: Mr. McQueen Goes to Washington</title>
+      <description><![CDATA[Just a few years ago, 18-year-old Noah McQueen was struggling in school, had been arrested multiple times, and spent time in juvenile detention. But today he is a mentee at the White House and part of My Brother's Keeper, a White House initiative for young men of color. Noah recently had the chance to record a StoryCorps interview with President Barack Obama, who wanted to know more about Noah's life.   Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.   Music in this episode:   "Something Elated" and "Note Drop" by Broke For Free      "Good Times" by Podington Bear- http://podingtonbear.com]]></description>
+      <pubDate>Sun, 01 Mar 2015 14:02:26 -0500</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>f7e14c41-df74-4d12-a9f2-9cfa0b57673e</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Just a few years ago, 18-year-old Noah McQueen was struggling in school, had been arrested multiple times, and spent time in juvenile detention. But today he is a mentee at the White House and part of My Brother's Keeper, a White House initiative for young men of color. Noah recently had the chance to record a StoryCorps interview with President Barack Obama, who wanted to know more about Noah's life.   Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.   Music in this episode:   "Something Elated" and "Note Drop" by Broke For Free      "Good Times" by Podington Bear- http://podingtonbear.com]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Just a few years ago, 18-year-old Noah McQueen was struggling in school, had been arrested multiple times, and spent time in juvenile detention. But today he is a mentee at the White House and part of My Brother's Keeper, a White House initiative for young men of color. Noah recently had the chance to record a StoryCorps interview with President Barack Obama, who wanted to know more about Noah's life.   Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.   Music in this episode:   "Something Elated" and "Note Drop" by Broke For Free      "Good Times" by Podington Bear- http://podingtonbear.com]]></itunes:subtitle>
+      <itunes:duration>523</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/510200/389973344/npr_389973344.mp3?orgId=1&amp;e=389973344&amp;d=523&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 415: Lucky in So Many Ways</title>
+      <description><![CDATA[Bill Jones, the first single man in California to successfully adopt a child, tells his friend Stu Maddux about his son, Aaron.Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.Music in this episode:Ticking Away by Cranston Prelude No 1 by Chris Zabriskie ]]></description>
+      <pubDate>Fri, 20 Feb 2015 18:58:24 -0500</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/387888602/npr_387888602.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Bill Jones, the first single man in California to successfully adopt a child, tells his friend Stu Maddux about his son, Aaron.Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.Music in this episode:Ticking Away by Cranston Prelude No 1 by Chris Zabriskie ]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Bill Jones, the first single man in California to successfully adopt a child, tells his friend Stu Maddux about his son, Aaron.Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Help support our work at StoryCorps.org/donate.Music in this episode:Ticking Away by Cranston Prelude No 1 by Chris Zabriskie ]]></itunes:subtitle>
+      <itunes:duration>441</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/387888602/npr_387888602.mp3?orgId=1&amp;e=387888602&amp;d=441&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 414: My Name is Yusor</title>
+      <description><![CDATA[In May 2014, Yusor Abu-Salha&#8211;one of the victims of Tuesday&#8217;s shooting in Chapel Hill&#8211;recorded a StoryCorps interview with Mussarut Jabeen, who was her 3rd grade teacher.&#160;In fact, all three of the victims&#8211;Yusor, her husband, Deah Barakat, and her sister, Razan Abu-Salha&#8211;attended Jabeen&#8217;s school. Mussarut Jabeen returned recently to talk about Yusor&#8217;s death.Hear more stories at StoryCorps.org.&#160;Write to the participants at podcast@storycorps.org.&#160;Tell us about someone you want to interview at characters@storycorps.org.&#160;And help support our work at&#160;StoryCorps.org/donate.&#160;Music Info&#160;"Hotel Meeting" by Jeff McIlwain And David Wingo from the album Snow Angeles]]></description>
+      <pubDate>Fri, 13 Feb 2015 17:45:42 -0500</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/386124606/npr_386124606.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In May 2014, Yusor Abu-Salha&#8211;one of the victims of Tuesday&#8217;s shooting in Chapel Hill&#8211;recorded a StoryCorps interview with Mussarut Jabeen, who was her 3rd grade teacher.&#160;In fact, all three of the victims&#8211;Yusor, her husband, Deah Barakat, and her sister, Razan Abu-Salha&#8211;attended Jabeen&#8217;s school. Mussarut Jabeen returned recently to talk about Yusor&#8217;s death.Hear more stories at StoryCorps.org.&#160;Write to the participants at podcast@storycorps.org.&#160;Tell us about someone you want to interview at characters@storycorps.org.&#160;And help support our work at&#160;StoryCorps.org/donate.&#160;Music Info&#160;"Hotel Meeting" by Jeff McIlwain And David Wingo from the album Snow Angeles]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In May 2014, Yusor Abu-Salha&#8211;one of the victims of Tuesday&#8217;s shooting in Chapel Hill&#8211;recorded a StoryCorps interview with Mussarut Jabeen, who was her 3rd grade teacher.&#160;In fact, all three of the victims&#8211;Yusor, her husband, Deah Barakat, and her sister, Razan Abu-Salha&#8211;attended Jabeen&#8217;s school. Mussarut Jabeen returned recently to talk about Yusor&#8217;s death.Hear more stories at StoryCorps.org.&#160;Write to the participants at podcast@storycorps.org.&#160;Tell us about someone you want to interview at characters@storycorps.org.&#160;And help support our work at&#160;StoryCorps.org/donate.&#160;Music Info&#160;"Hotel Meeting" by Jeff McIlwain And David Wingo from the album Snow Angeles]]></itunes:subtitle>
+      <itunes:duration>434</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/386124606/npr_386124606.mp3?orgId=1&amp;e=386124606&amp;d=434&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>StoryCorps 413: When Sean Speaks</title>
+      <description><![CDATA[Sean Carter was a college student putting himself through school in Wichita Falls, Texas, when he was in a serious car accident. He was riding with a friend who had been drinking, and sustained a traumatic brain injury in the crash.Today, Sean is unable to walk and speaks only with the aid of a computer. At StoryCorps he interviewed his mother, Jenny Carter, who is his full-time caretaker. Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Tell us about someone you want to interview at characters@storycorps.org. And help support our work at StoryCorps.org/donate. Music Info"Opening Credits" by Johnny Ripper"Fives" by Podington Bear"Send Off" by Explosions in the Sky and David Wingo]]></description>
+      <pubDate>Mon, 09 Feb 2015 14:45:37 -0500</pubDate>
+      <copyright>Sound Portraits Productions</copyright>
+      <guid>http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/385239724/npr_385239724.mp3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Sean Carter was a college student putting himself through school in Wichita Falls, Texas, when he was in a serious car accident. He was riding with a friend who had been drinking, and sustained a traumatic brain injury in the crash.Today, Sean is unable to walk and speaks only with the aid of a computer. At StoryCorps he interviewed his mother, Jenny Carter, who is his full-time caretaker. Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Tell us about someone you want to interview at characters@storycorps.org. And help support our work at StoryCorps.org/donate. Music Info"Opening Credits" by Johnny Ripper"Fives" by Podington Bear"Send Off" by Explosions in the Sky and David Wingo]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Sean Carter was a college student putting himself through school in Wichita Falls, Texas, when he was in a serious car accident. He was riding with a friend who had been drinking, and sustained a traumatic brain injury in the crash.Today, Sean is unable to walk and speaks only with the aid of a computer. At StoryCorps he interviewed his mother, Jenny Carter, who is his full-time caretaker. Hear more stories at StoryCorps.org. Write to the participants at podcast@storycorps.org. Tell us about someone you want to interview at characters@storycorps.org. And help support our work at StoryCorps.org/donate. Music Info"Opening Credits" by Johnny Ripper"Fives" by Podington Bear"Send Off" by Explosions in the Sky and David Wingo]]></itunes:subtitle>
+      <itunes:duration>226</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="http://podcastdownload.npr.org/anon.npr-podcasts/podcast/1/510200/385239724/npr_385239724.mp3?orgId=1&amp;e=385239724&amp;d=226&amp;ft=pod&amp;f=510200" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
