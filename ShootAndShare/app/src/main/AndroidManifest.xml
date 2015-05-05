@@ -19,9 +19,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.PhotoActivity" />
+        <activity android:name=".ui.PhotoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"></action>
 
-        <service android:name="org.jboss.aerogear.android.authorization.oauth2.OAuth2AuthzService"/>
+                <category android:name="android.intent.category.DEFAULT"></category>
+                <category android:name="android.intent.category.BROWSABLE"></category>
+
+                <data
+                    android:host="oauth2Callback"
+                    android:scheme="org.aerogear.shoot"></data>
+            </intent-filter>
+        </activity>
+
+        <service android:name="org.jboss.aerogear.android.authorization.oauth2.OAuth2AuthzService" />
         <service android:name=".service.UploadService" />
 
     </application>

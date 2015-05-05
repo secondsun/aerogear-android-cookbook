@@ -41,6 +41,9 @@ public class PhotoActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        if (getIntent() == null || getIntent().getStringExtra("PHOTO") == null) {
+            finish();
+        }
         setContentView(R.layout.activity_photo);
 
         ImageView googlePlus = (ImageView) findViewById(R.id.google_plus);
